@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d1ebe60af480d244897082a3c8bddf55
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Melee/SwordShield/Animations/Walk_BackRight.anim
+  uploadId: 734996

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 284a270461dc6b942ba274470f2ae64a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Melee/SwordShield/Animations/Idle_Block_Impact.anim
+  uploadId: 734996

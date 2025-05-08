@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: abe352b919b33f1459f928db9f833ef6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/Prefabs/Basic/Pickup.prefab
+  uploadId: 734996

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c616510c563e48c4abe77378c281e159
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/VFX/Lightning/LightningStrike.prefab
+  uploadId: 734996

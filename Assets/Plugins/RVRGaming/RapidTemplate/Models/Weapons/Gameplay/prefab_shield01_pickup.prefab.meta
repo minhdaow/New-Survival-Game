@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5e3d4fed402c8404081a60441212fe5c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/Models/Weapons/Gameplay/prefab_shield01_pickup.prefab
+  uploadId: 734996

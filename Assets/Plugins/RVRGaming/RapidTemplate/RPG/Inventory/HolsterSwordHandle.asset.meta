@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 30ce8823708ab4546af77d6ce3362ef5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Inventory/HolsterSwordHandle.asset
+  uploadId: 734996

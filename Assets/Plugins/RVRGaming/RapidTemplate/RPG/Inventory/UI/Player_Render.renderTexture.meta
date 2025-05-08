@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d51a53ad14e371346bc4f5a24d7a6cf9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Inventory/UI/Player_Render.renderTexture
+  uploadId: 734996

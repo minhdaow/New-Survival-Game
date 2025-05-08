@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 57805eb2217ae834fbe982cf7933b79f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/Scripts/Instructions/InstructionChangeMaterialFloatPlus.cs
+  uploadId: 734996

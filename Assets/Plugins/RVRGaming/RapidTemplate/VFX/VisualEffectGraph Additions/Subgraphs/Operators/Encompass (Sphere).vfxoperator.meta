@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 60fbb631c0aaaa9489e8730e87801bac
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/VFX/VisualEffectGraph Additions/Subgraphs/Operators/Encompass
+    (Sphere).vfxoperator
+  uploadId: 734996

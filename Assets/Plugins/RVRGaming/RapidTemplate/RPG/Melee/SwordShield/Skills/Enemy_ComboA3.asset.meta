@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b4efe48f2d8b131419d5366a591f112e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Melee/SwordShield/Skills/Enemy_ComboA3.asset
+  uploadId: 734996

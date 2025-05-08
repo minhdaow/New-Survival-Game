@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b4886e6f8005d924da2938b8867f0858
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/Prefabs/RPG/Breakable_Jug.prefab
+  uploadId: 734996

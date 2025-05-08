@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 32448c30529b85345b1b5f399bfe2fee
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Melee/Boss01/Skills/EvadeBack.asset
+  uploadId: 734996

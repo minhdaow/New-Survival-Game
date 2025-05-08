@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d4c6c5b2a9d69e944997749d1c701cd6
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/VFX/VisualEffectGraph Additions/Subgraphs/Blocks/Interpolate
+    Fade Attribute.vfxblock
+  uploadId: 734996

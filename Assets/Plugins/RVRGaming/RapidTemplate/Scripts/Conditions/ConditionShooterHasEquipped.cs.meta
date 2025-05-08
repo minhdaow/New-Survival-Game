@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 6791cb5cd94f0cd4ebfc5f940f582e44
+timeCreated: 1680106968
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/Scripts/Conditions/ConditionShooterHasEquipped.cs
+  uploadId: 734996

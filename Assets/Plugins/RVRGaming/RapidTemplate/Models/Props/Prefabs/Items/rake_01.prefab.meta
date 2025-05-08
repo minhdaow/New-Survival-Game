@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b44415eef131de742a4190453fc4d68e
+timeCreated: 1559923577
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/Models/Props/Prefabs/Items/rake_01.prefab
+  uploadId: 734996

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2c678c087a3952c46be1a02c66532b24
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Melee/Skills/MagicStrike/Skill_MagicStrike.asset
+  uploadId: 734996

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b54aa9f3cd2bdc7439cce026974b5be7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/UI/Prefabs/Canvas-Catch.prefab
+  uploadId: 734996

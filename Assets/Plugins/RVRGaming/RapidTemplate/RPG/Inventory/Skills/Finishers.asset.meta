@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1a37a5652cf00404c98c9e0cb1e2415d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Inventory/Skills/Finishers.asset
+  uploadId: 734996

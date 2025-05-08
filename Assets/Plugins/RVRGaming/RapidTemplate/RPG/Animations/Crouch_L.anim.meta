@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d2472314a4644a842ab02b0709528f11
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Animations/Crouch_L.anim
+  uploadId: 734996

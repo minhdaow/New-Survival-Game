@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 37446af5c49e93b4d874f210e1a7b41b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Dialogue/Speech_RT.asset
+  uploadId: 734996

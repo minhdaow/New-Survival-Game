@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ed639608dc357994d85ce99bf9e234c9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Inventory/Items/Prefabs/Actions-EquipSword.prefab
+  uploadId: 734996

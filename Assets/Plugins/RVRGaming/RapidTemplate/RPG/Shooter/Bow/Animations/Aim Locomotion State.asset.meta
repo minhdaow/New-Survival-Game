@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0cd3d135f3f9b4d44a99613f847858f2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Shooter/Bow/Animations/Aim
+    Locomotion State.asset
+  uploadId: 734996

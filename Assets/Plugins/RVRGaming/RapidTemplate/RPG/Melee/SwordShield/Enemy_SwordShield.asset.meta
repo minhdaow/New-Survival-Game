@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8ed3385651b1d994d84f79aa0e0fd780
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Melee/SwordShield/Enemy_SwordShield.asset
+  uploadId: 734996

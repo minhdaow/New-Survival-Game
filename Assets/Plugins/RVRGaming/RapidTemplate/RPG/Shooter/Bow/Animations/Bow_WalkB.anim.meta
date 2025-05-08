@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 517fc1a622554dc468f9b1714a7d8841
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Shooter/Bow/Animations/Bow_WalkB.anim
+  uploadId: 734996

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7ddbcb198ba1d7644b45367d30c70a6b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Melee/Axe/Skills/Axe_Counter.asset
+  uploadId: 734996

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 802e266c6714cdf45bec6e6bbcc187af
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Melee/Boss01/Animations/BigAttack01.anim
+  uploadId: 734996

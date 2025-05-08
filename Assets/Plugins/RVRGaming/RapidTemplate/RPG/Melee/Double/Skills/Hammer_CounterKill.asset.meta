@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: afe449e372552c143b046d1865ce1037
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Melee/Double/Skills/Hammer_CounterKill.asset
+  uploadId: 734996

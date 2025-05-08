@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 30bf859e5b845a24baa96328551b6ed8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Shooter/Bow/Prefabs/Bow_Arrow.prefab
+  uploadId: 734996

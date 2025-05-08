@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6d1852bd385ede9428a6957d529a86c6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Melee/Skills/MagicHeal/Magic
+    Heal.anim
+  uploadId: 734996

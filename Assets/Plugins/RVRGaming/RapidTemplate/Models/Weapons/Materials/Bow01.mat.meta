@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ad0ba54076bc2304f8b325cb1db121f2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/Models/Weapons/Materials/Bow01.mat
+  uploadId: 734996

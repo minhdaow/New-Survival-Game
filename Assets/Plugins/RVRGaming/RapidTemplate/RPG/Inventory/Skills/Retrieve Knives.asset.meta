@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f6ea88687a97bdf468a14248e0cd1e4d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Inventory/Skills/Retrieve
+    Knives.asset
+  uploadId: 734996

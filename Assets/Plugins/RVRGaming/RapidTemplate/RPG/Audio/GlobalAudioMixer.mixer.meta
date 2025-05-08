@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f418eb1dd1838244b98a92b8d8b5bb24
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 24100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Audio/GlobalAudioMixer.mixer
+  uploadId: 734996

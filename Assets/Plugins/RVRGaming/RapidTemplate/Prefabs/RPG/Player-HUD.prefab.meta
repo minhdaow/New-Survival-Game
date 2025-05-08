@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6b3b0c9a273ea6644b8bfa0f1fec79ad
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/Prefabs/RPG/Player-HUD.prefab
+  uploadId: 734996

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ba528ff7b7add794f9242f4bb5700434
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/Models/Weapons/Gameplay/prefab_sword01_pickup.prefab
+  uploadId: 734996

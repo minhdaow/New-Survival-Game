@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 901fde9bef82ea9409b6b4f6f51403e0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Inventory/Items/Inv_Helmet_01.asset
+  uploadId: 734996

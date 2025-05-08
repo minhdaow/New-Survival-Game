@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0823283369a063e4d91e10113e8afeb5
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/VFX/VisualEffectGraph Additions/Subgraphs/Blocks/Orient
+    - VR Camera Facing.vfxblock
+  uploadId: 734996

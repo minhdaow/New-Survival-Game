@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ff6e54eb8ca15a0419c29b68d25ed423
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Behavior/CoreBehavior_Civilian.asset
+  uploadId: 734996

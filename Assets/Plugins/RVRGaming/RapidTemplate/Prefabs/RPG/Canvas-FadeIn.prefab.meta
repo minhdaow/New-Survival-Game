@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a59d9a79be52d3a41877990256848640
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/Prefabs/RPG/Canvas-FadeIn.prefab
+  uploadId: 734996

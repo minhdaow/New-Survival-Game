@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6fd88952ff81f1140a4e90747a728dc1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Melee/Skills/MagicArrow/Skill_MagicArrow.asset
+  uploadId: 734996

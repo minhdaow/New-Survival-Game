@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9a3d69e63906a314982e713fc55e8b99
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Animations/Sword_Idle_Block.anim
+  uploadId: 734996

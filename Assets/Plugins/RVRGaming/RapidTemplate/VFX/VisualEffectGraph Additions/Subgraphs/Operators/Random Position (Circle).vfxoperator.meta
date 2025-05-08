@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 186d94d3e4d1c7c4ebf5b424b469bc0f
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/VFX/VisualEffectGraph Additions/Subgraphs/Operators/Random
+    Position (Circle).vfxoperator
+  uploadId: 734996

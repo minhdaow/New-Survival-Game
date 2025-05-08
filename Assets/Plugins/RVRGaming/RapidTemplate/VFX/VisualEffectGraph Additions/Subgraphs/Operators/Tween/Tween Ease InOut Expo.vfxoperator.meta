@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2f0274b9a3780aa46a535c6f378a9f34
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/VFX/VisualEffectGraph Additions/Subgraphs/Operators/Tween/Tween
+    Ease InOut Expo.vfxoperator
+  uploadId: 734996

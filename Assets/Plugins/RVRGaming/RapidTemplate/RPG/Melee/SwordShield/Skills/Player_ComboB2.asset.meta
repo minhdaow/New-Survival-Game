@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 678aa2948cab04345ad4516bd1c6f8f2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Melee/SwordShield/Skills/Player_ComboB2.asset
+  uploadId: 734996

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f6dc265de30126c4193c75cbacc89119
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Inventory/Items/Prefabs/Actions-UnequpBow.prefab
+  uploadId: 734996

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6673404a7c797e548b5588b89d1425dc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Melee/Boss01/States/Armed
+    State.asset
+  uploadId: 734996

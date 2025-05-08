@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 002f7a569314a244fb643e8ea8d00376
+timeCreated: 1559923551
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/Models/Props/Prefabs/Wall_decor/Banners/banner_01b.prefab
+  uploadId: 734996

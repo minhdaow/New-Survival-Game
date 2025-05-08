@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d127eb280266b1c438ae4380f421e61c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Melee/Skills/MagicArrow/Magic_Arrow_Ammo.asset
+  uploadId: 734996

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ff25e874045f8b9458ac6db129065866
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Shooter/Bow/Animations/Bow
+    Idle State.asset
+  uploadId: 734996

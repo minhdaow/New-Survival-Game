@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a295d3835c2e4698b29a20f747e5b20f, type: 3}
+  m_Name: core.variables
+  m_EditorClassIdentifier: 
+  m_Repository:
+    rid: 3417313437093724532
+  references:
+    version: 2
+    RefIds:
+    - rid: 3417313437093724532
+      type: {class: VariablesRepository, ns: GameCreator.Runtime.Variables, asm: GameCreator.Runtime.Core}
+      data:
+        m_Variables:
+          m_NameVariables:
+          - {fileID: 11400000, guid: b49488edb59f64d8e95f778eb5f6b7ab, type: 2}
+          - {fileID: 11400000, guid: 42039407b5dc04d419c7c75d678775ea, type: 2}
+          - {fileID: 11400000, guid: 7a07624f555c2444190027c01c491483, type: 2}
+          - {fileID: 11400000, guid: cd0123f297a4ba74dbb1b60e6db88fd8, type: 2}
+          - {fileID: 11400000, guid: 3f9ce994ee28753449204afa72b3f4dd, type: 2}
+          - {fileID: 11400000, guid: f19992c5bedd2694f9a3de514a91ca60, type: 2}
+          - {fileID: 11400000, guid: 01565de768f403042831c7bb936e9b81, type: 2}
+          - {fileID: 11400000, guid: b006a2700d33bf045bff9ac2be554f58, type: 2}
+          m_ListVariables:
+          - {fileID: 11400000, guid: a1ebc452b4bfa47b383aee3c5b44d8da, type: 2}
+          - {fileID: 11400000, guid: 6745701fd37bd4e92a9efa961971f8b4, type: 2}
+          - {fileID: 11400000, guid: e94cb669da9e57f438e7c8097748fc1e, type: 2}
+          - {fileID: 11400000, guid: afb9db35a5bf6644eb6f7321313a8694, type: 2}

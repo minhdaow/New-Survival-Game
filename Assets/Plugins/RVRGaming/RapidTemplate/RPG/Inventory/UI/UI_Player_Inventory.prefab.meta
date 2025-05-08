@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dbad49572a9e66343a8ea9d322c91851
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Inventory/UI/UI_Player_Inventory.prefab
+  uploadId: 734996

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 296234d05ce436940b641859d9b86a96
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 23800000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG-SampleScene/NavMesh-Plane.asset
+  uploadId: 734996

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ca64e86747efde14b891f4cc1616ce26
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Melee/Skills/MagicArrow/Magic_Arrow_Sight.asset
+  uploadId: 734996

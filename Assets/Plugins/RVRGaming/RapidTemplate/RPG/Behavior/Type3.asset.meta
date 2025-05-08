@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c12b7105278a4ca41b1a01cb4103769a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Behavior/Type3.asset
+  uploadId: 734996

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 11e95a3194a8c1e408fc89223379fadc
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/VFX/VisualEffectGraph Additions/Subgraphs/Operators/Get
+    Fade Attribute.vfxoperator
+  uploadId: 734996

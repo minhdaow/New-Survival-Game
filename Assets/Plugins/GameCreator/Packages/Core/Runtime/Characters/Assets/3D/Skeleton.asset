@@ -1,0 +1,1024 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 129038e8166d74031a86b8545896ab42, type: 3}
+  m_Name: Skeleton
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 13400000, guid: 9136104d39503441e863c2726e6a97cc, type: 2}
+  m_CollisionDetection: 3
+  m_Volumes:
+    rid: 1121869122702934219
+  <EditorModelPath>k__BackingField: Assets/PolygonApocalypse/Prefabs/Characters/SM_Chr_Zombie_Male_02.prefab
+  references:
+    version: 2
+    RefIds:
+    - rid: 1121869122702934219
+      type: {class: Volumes, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data:
+        m_Volumes:
+        - rid: 1121869122702934220
+        - rid: 1121869122702934221
+        - rid: 1121869122702934222
+        - rid: 1121869122702934223
+        - rid: 1121869122702934224
+        - rid: 1121869122702934225
+        - rid: 1121869122702934226
+        - rid: 1121869122702934227
+        - rid: 1121869122702934228
+        - rid: 1121869122702934229
+        - rid: 1121869122702934230
+        - rid: 1121869122702934231
+        - rid: 1121869122702934232
+        - rid: 1121869122702934233
+        - rid: 1121869122702934234
+        - rid: 1121869122702934235
+        - rid: 1121869122702934236
+        - rid: 1121869122702934237
+        - rid: 1121869122702934238
+        - rid: 1121869122702934239
+    - rid: 1121869122702934220
+      type: {class: VolumeCapsule, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Bone:
+          m_Type: 1
+          m_Human: 0
+          m_Path: 
+        m_Weight: 1
+        m_Joint:
+          rid: 1121869122702934240
+        m_Center: {x: 0, y: 0.86, z: -0.04}
+        m_Height: 0.29
+        m_Radius: 0.2
+        m_Direction: 1
+    - rid: 1121869122702934221
+      type: {class: VolumeCapsule, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Bone:
+          m_Type: 1
+          m_Human: 7
+          m_Path: 
+        m_Weight: 0.9
+        m_Joint:
+          rid: 1121869122702934241
+        m_Center: {x: -0.12, y: -0.01, z: 4.6155292e-17}
+        m_Height: 0.15
+        m_Radius: 0.16
+        m_Direction: 0
+    - rid: 1121869122702934222
+      type: {class: VolumeSphere, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Bone:
+          m_Type: 1
+          m_Human: 10
+          m_Path: 
+        m_Weight: 0.45
+        m_Joint:
+          rid: 1121869122702934242
+        m_Center: {x: 4.0729706e-16, y: 0.09428203, z: 0.015169372}
+        m_Radius: -0.18
+    - rid: 1121869122702934223
+      type: {class: VolumeCapsule, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Bone:
+          m_Type: 1
+          m_Human: 1
+          m_Path: 
+        m_Weight: 0.85
+        m_Joint:
+          rid: 1121869122702934243
+        m_Center: {x: 0.19965462, y: 0, z: 0}
+        m_Height: 0.39930925
+        m_Radius: 0.05989639
+        m_Direction: 0
+    - rid: 1121869122702934224
+      type: {class: VolumeCapsule, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Bone:
+          m_Type: 1
+          m_Human: 3
+          m_Path: 
+        m_Weight: 0.6
+        m_Joint:
+          rid: 1121869122702934244
+        m_Center: {x: 0.1885617, y: 0, z: 0}
+        m_Height: 0.3771234
+        m_Radius: 0.05656851
+        m_Direction: 0
+    - rid: 1121869122702934225
+      type: {class: VolumeCapsule, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Bone:
+          m_Type: 1
+          m_Human: 5
+          m_Path: 
+        m_Weight: 0.4
+        m_Joint:
+          rid: 1121869122702934245
+        m_Center: {x: 0.061627377, y: 0.02871054, z: 0.000000020023435}
+        m_Height: 0.1885616
+        m_Radius: 0.056568492
+        m_Direction: 0
+    - rid: 1121869122702934226
+      type: {class: VolumeCapsule, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Bone:
+          m_Type: 1
+          m_Human: 2
+          m_Path: 
+        m_Weight: 0.85
+        m_Joint:
+          rid: 1121869122702934246
+        m_Center: {x: -0.19965462, y: 0, z: 0}
+        m_Height: 0.39930925
+        m_Radius: 0.05989639
+        m_Direction: 0
+    - rid: 1121869122702934227
+      type: {class: VolumeCapsule, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Bone:
+          m_Type: 1
+          m_Human: 4
+          m_Path: 
+        m_Weight: 0.6
+        m_Joint:
+          rid: 1121869122702934247
+        m_Center: {x: -0.18856193, y: 0, z: 0}
+        m_Height: 0.37712386
+        m_Radius: 0.05656858
+        m_Direction: 0
+    - rid: 1121869122702934228
+      type: {class: VolumeCapsule, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Bone:
+          m_Type: 1
+          m_Human: 6
+          m_Path: 
+        m_Weight: 0.4
+        m_Joint:
+          rid: 1121869122702934248
+        m_Center: {x: -0.06162751, y: -0.028710697, z: -0.0000000027939677}
+        m_Height: 0.18856178
+        m_Radius: 0.056568537
+        m_Direction: 0
+    - rid: 1121869122702934229
+      type: {class: VolumeCapsule, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Bone:
+          m_Type: 1
+          m_Human: 13
+          m_Path: 
+        m_Weight: 0.6
+        m_Joint:
+          rid: 1121869122702934249
+        m_Center: {x: -0.16973701, y: 0, z: 0}
+        m_Height: 0.33947402
+        m_Radius: 0.050921105
+        m_Direction: 0
+    - rid: 1121869122702934230
+      type: {class: VolumeCapsule, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Bone:
+          m_Type: 1
+          m_Human: 15
+          m_Path: 
+        m_Weight: 0.35
+        m_Joint:
+          rid: 1121869122702934250
+        m_Center: {x: -0.13557266, y: 0, z: 0}
+        m_Height: 0.2711453
+        m_Radius: 0.0406718
+        m_Direction: 0
+    - rid: 1121869122702934231
+      type: {class: VolumeCapsule, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Bone:
+          m_Type: 1
+          m_Human: 17
+          m_Path: 
+        m_Weight: 0.25
+        m_Joint:
+          rid: 1121869122702934251
+        m_Center: {x: -0.1014287, y: 0.000000051681127, z: -0.00000009175528}
+        m_Height: 0.20285735
+        m_Radius: 0.04057147
+        m_Direction: 0
+    - rid: 1121869122702934232
+      type: {class: VolumeCapsule, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Bone:
+          m_Type: 1
+          m_Human: 14
+          m_Path: 
+        m_Weight: 0.6
+        m_Joint:
+          rid: 1121869122702934252
+        m_Center: {x: 0.16973731, y: 0, z: 0}
+        m_Height: 0.33947462
+        m_Radius: 0.050921194
+        m_Direction: 0
+    - rid: 1121869122702934233
+      type: {class: VolumeCapsule, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Bone:
+          m_Type: 1
+          m_Human: 16
+          m_Path: 
+        m_Weight: 0.35
+        m_Joint:
+          rid: 1121869122702934253
+        m_Center: {x: 0.1355724, y: 0, z: 0}
+        m_Height: 0.2711448
+        m_Radius: 0.04067172
+        m_Direction: 0
+    - rid: 1121869122702934234
+      type: {class: VolumeCapsule, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Bone:
+          m_Type: 1
+          m_Human: 18
+          m_Path: 
+        m_Weight: 0.25
+        m_Joint:
+          rid: 1121869122702934254
+        m_Center: {x: 0.10142827, y: 0.0000000093496055, z: 0.00000006303344}
+        m_Height: 0.2028569
+        m_Radius: 0.04057138
+        m_Direction: 0
+    - rid: 1121869122702934235
+      type: {class: VolumeCapsule, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Bone:
+          m_Type: 1
+          m_Human: 8
+          m_Path: 
+        m_Weight: 0.75
+        m_Joint:
+          rid: 1121869122702934255
+        m_Center: {x: -0.14, y: 0, z: -0}
+        m_Height: 0.13
+        m_Radius: 0.2
+        m_Direction: 0
+    - rid: 1121869122702934236
+      type: {class: VolumeCapsule, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Bone:
+          m_Type: 1
+          m_Human: 54
+          m_Path: 
+        m_Weight: 0.65
+        m_Joint:
+          rid: 1121869122702934256
+        m_Center: {x: 0, y: 0, z: 0}
+        m_Height: 0.3819782
+        m_Radius: 0.13
+        m_Direction: 0
+    - rid: 1121869122702934237
+      type: {class: VolumeCapsule, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Bone:
+          m_Type: 1
+          m_Human: 11
+          m_Path: 
+        m_Weight: 0.35
+        m_Joint:
+          rid: 1121869122702934257
+        m_Center: {x: -0.06598937, y: 0, z: 0}
+        m_Height: 0.13197874
+        m_Radius: 0.019796811
+        m_Direction: 0
+    - rid: 1121869122702934238
+      type: {class: VolumeCapsule, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Bone:
+          m_Type: 1
+          m_Human: 12
+          m_Path: 
+        m_Weight: 0.35
+        m_Joint:
+          rid: 1121869122702934258
+        m_Center: {x: 0.065989316, y: 0, z: 0}
+        m_Height: 0.13197863
+        m_Radius: 0.019796796
+        m_Direction: 0
+    - rid: 1121869122702934239
+      type: {class: VolumeCapsule, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Bone:
+          m_Type: 1
+          m_Human: 9
+          m_Path: 
+        m_Weight: 0.6
+        m_Joint:
+          rid: 1121869122702934259
+        m_Center: {x: -0.06082213, y: 0, z: 0}
+        m_Height: 0.12164426
+        m_Radius: 0.09
+        m_Direction: 0
+    - rid: 1121869122702934240
+      type: {class: JointConfigurable, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data:
+        m_Parent:
+          m_Type: 0
+          m_Human: 0
+          m_Path: 
+        m_LinearMotion: 2
+        m_AngularMotion: 2
+        m_PrimaryAxis: {x: 1, y: 0, z: 0}
+        m_SecondaryAxis: {x: 0, y: 1, z: 0}
+        m_SpringLimitX:
+          m_Spring: 620
+          m_Damper: 35
+        m_SpringLimitYZ:
+          m_Spring: 620
+          m_Damper: 35
+        m_LimitXLow:
+          m_Limit: 0
+          m_Bounciness: 0.3
+          m_ContactDistance: 0
+        m_LimitXHigh:
+          m_Limit: 0
+          m_Bounciness: 0.3
+          m_ContactDistance: 0
+        m_LimitY:
+          m_Limit: 0
+          m_Bounciness: 0.3
+          m_ContactDistance: 0
+        m_LimitZ:
+          m_Limit: 0
+          m_Bounciness: 0.3
+          m_ContactDistance: 0
+    - rid: 1121869122702934241
+      type: {class: JointConfigurable, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data:
+        m_Parent:
+          m_Type: 1
+          m_Human: 0
+          m_Path: 
+        m_LinearMotion: 0
+        m_AngularMotion: 1
+        m_PrimaryAxis: {x: -1, y: 0, z: 0}
+        m_SecondaryAxis: {x: 0, y: 0, z: 1}
+        m_SpringLimitX:
+          m_Spring: 550
+          m_Damper: 30
+        m_SpringLimitYZ:
+          m_Spring: 550
+          m_Damper: 30
+        m_LimitXLow:
+          m_Limit: 0
+          m_Bounciness: 0.3
+          m_ContactDistance: 20
+        m_LimitXHigh:
+          m_Limit: 95
+          m_Bounciness: 0.3
+          m_ContactDistance: 20
+        m_LimitY:
+          m_Limit: 5
+          m_Bounciness: 0.3
+          m_ContactDistance: 1
+        m_LimitZ:
+          m_Limit: 10
+          m_Bounciness: 0.3
+          m_ContactDistance: 2
+    - rid: 1121869122702934242
+      type: {class: JointConfigurable, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data:
+        m_Parent:
+          m_Type: 1
+          m_Human: 9
+          m_Path: 
+        m_LinearMotion: 0
+        m_AngularMotion: 1
+        m_PrimaryAxis: {x: -1, y: 0, z: 0}
+        m_SecondaryAxis: {x: 0, y: 0, z: 1}
+        m_SpringLimitX:
+          m_Spring: 280
+          m_Damper: 17
+        m_SpringLimitYZ:
+          m_Spring: 280
+          m_Damper: 17
+        m_LimitXLow:
+          m_Limit: -30
+          m_Bounciness: 0.3
+          m_ContactDistance: 11
+        m_LimitXHigh:
+          m_Limit: 25
+          m_Bounciness: 0.3
+          m_ContactDistance: 11
+        m_LimitY:
+          m_Limit: 15
+          m_Bounciness: 0.3
+          m_ContactDistance: 3
+        m_LimitZ:
+          m_Limit: 20
+          m_Bounciness: 0.3
+          m_ContactDistance: 4
+    - rid: 1121869122702934243
+      type: {class: JointConfigurable, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data:
+        m_Parent:
+          m_Type: 1
+          m_Human: 0
+          m_Path: 
+        m_LinearMotion: 0
+        m_AngularMotion: 1
+        m_PrimaryAxis: {x: 1, y: 0, z: 0}
+        m_SecondaryAxis: {x: 0, y: 0, z: 1}
+        m_SpringLimitX:
+          m_Spring: 520
+          m_Damper: 30
+        m_SpringLimitYZ:
+          m_Spring: 520
+          m_Damper: 30
+        m_LimitXLow:
+          m_Limit: -20
+          m_Bounciness: 0.3
+          m_ContactDistance: 18
+        m_LimitXHigh:
+          m_Limit: 70
+          m_Bounciness: 0.3
+          m_ContactDistance: 18
+        m_LimitY:
+          m_Limit: 30
+          m_Bounciness: 0.3
+          m_ContactDistance: 6
+        m_LimitZ:
+          m_Limit: 8
+          m_Bounciness: 0.3
+          m_ContactDistance: 1.5
+    - rid: 1121869122702934244
+      type: {class: JointConfigurable, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data:
+        m_Parent:
+          m_Type: 1
+          m_Human: 1
+          m_Path: 
+        m_LinearMotion: 0
+        m_AngularMotion: 1
+        m_PrimaryAxis: {x: 1, y: 0, z: 0}
+        m_SecondaryAxis: {x: 0, y: 0, z: 1}
+        m_SpringLimitX:
+          m_Spring: 350
+          m_Damper: 22
+        m_SpringLimitYZ:
+          m_Spring: 350
+          m_Damper: 22
+        m_LimitXLow:
+          m_Limit: -90
+          m_Bounciness: 0.3
+          m_ContactDistance: 18
+        m_LimitXHigh:
+          m_Limit: 0
+          m_Bounciness: 0.3
+          m_ContactDistance: 18
+        m_LimitY:
+          m_Limit: 10
+          m_Bounciness: 0.3
+          m_ContactDistance: 2
+        m_LimitZ:
+          m_Limit: 1
+          m_Bounciness: 0.3
+          m_ContactDistance: 2
+    - rid: 1121869122702934245
+      type: {class: JointConfigurable, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data:
+        m_Parent:
+          m_Type: 1
+          m_Human: 3
+          m_Path: 
+        m_LinearMotion: 0
+        m_AngularMotion: 1
+        m_PrimaryAxis: {x: 1, y: 0, z: 0}
+        m_SecondaryAxis: {x: 0, y: 1, z: 0}
+        m_SpringLimitX:
+          m_Spring: 260
+          m_Damper: 16
+        m_SpringLimitYZ:
+          m_Spring: 260
+          m_Damper: 16
+        m_LimitXLow:
+          m_Limit: -25
+          m_Bounciness: 0.3
+          m_ContactDistance: 10
+        m_LimitXHigh:
+          m_Limit: 25
+          m_Bounciness: 0.3
+          m_ContactDistance: 10
+        m_LimitY:
+          m_Limit: 20
+          m_Bounciness: 0.3
+          m_ContactDistance: 4
+        m_LimitZ:
+          m_Limit: 20
+          m_Bounciness: 0.3
+          m_ContactDistance: 4
+    - rid: 1121869122702934246
+      type: {class: JointConfigurable, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data:
+        m_Parent:
+          m_Type: 1
+          m_Human: 0
+          m_Path: 
+        m_LinearMotion: 0
+        m_AngularMotion: 1
+        m_PrimaryAxis: {x: 1, y: 0, z: 0}
+        m_SecondaryAxis: {x: 0, y: 0, z: 1}
+        m_SpringLimitX:
+          m_Spring: 520
+          m_Damper: 30
+        m_SpringLimitYZ:
+          m_Spring: 520
+          m_Damper: 30
+        m_LimitXLow:
+          m_Limit: -20
+          m_Bounciness: 0.3
+          m_ContactDistance: 18
+        m_LimitXHigh:
+          m_Limit: 70
+          m_Bounciness: 0.3
+          m_ContactDistance: 18
+        m_LimitY:
+          m_Limit: 30
+          m_Bounciness: 0.3
+          m_ContactDistance: 6
+        m_LimitZ:
+          m_Limit: 8
+          m_Bounciness: 0.3
+          m_ContactDistance: 1.5
+    - rid: 1121869122702934247
+      type: {class: JointConfigurable, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data:
+        m_Parent:
+          m_Type: 1
+          m_Human: 2
+          m_Path: 
+        m_LinearMotion: 0
+        m_AngularMotion: 1
+        m_PrimaryAxis: {x: 1, y: 0, z: 0}
+        m_SecondaryAxis: {x: 0, y: 0, z: 1}
+        m_SpringLimitX:
+          m_Spring: 350
+          m_Damper: 22
+        m_SpringLimitYZ:
+          m_Spring: 350
+          m_Damper: 22
+        m_LimitXLow:
+          m_Limit: -90
+          m_Bounciness: 0.3
+          m_ContactDistance: 18
+        m_LimitXHigh:
+          m_Limit: 0
+          m_Bounciness: 0.3
+          m_ContactDistance: 18
+        m_LimitY:
+          m_Limit: 10
+          m_Bounciness: 0.3
+          m_ContactDistance: 2
+        m_LimitZ:
+          m_Limit: 1
+          m_Bounciness: 0.3
+          m_ContactDistance: 2
+    - rid: 1121869122702934248
+      type: {class: JointConfigurable, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data:
+        m_Parent:
+          m_Type: 1
+          m_Human: 4
+          m_Path: 
+        m_LinearMotion: 0
+        m_AngularMotion: 1
+        m_PrimaryAxis: {x: 1, y: 0, z: 0}
+        m_SecondaryAxis: {x: 0, y: 1, z: 0}
+        m_SpringLimitX:
+          m_Spring: 260
+          m_Damper: 16
+        m_SpringLimitYZ:
+          m_Spring: 260
+          m_Damper: 16
+        m_LimitXLow:
+          m_Limit: -25
+          m_Bounciness: 0.3
+          m_ContactDistance: 10
+        m_LimitXHigh:
+          m_Limit: 25
+          m_Bounciness: 0.3
+          m_ContactDistance: 10
+        m_LimitY:
+          m_Limit: 20
+          m_Bounciness: 0.3
+          m_ContactDistance: 4
+        m_LimitZ:
+          m_Limit: 20
+          m_Bounciness: 0.3
+          m_ContactDistance: 4
+    - rid: 1121869122702934249
+      type: {class: JointConfigurable, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data:
+        m_Parent:
+          m_Type: 1
+          m_Human: 11
+          m_Path: 
+        m_LinearMotion: 0
+        m_AngularMotion: 1
+        m_PrimaryAxis: {x: 0, y: -1, z: 0}
+        m_SecondaryAxis: {x: 0, y: 0, z: -1}
+        m_SpringLimitX:
+          m_Spring: 380
+          m_Damper: 22
+        m_SpringLimitYZ:
+          m_Spring: 380
+          m_Damper: 22
+        m_LimitXLow:
+          m_Limit: -90
+          m_Bounciness: 0.3
+          m_ContactDistance: 20
+        m_LimitXHigh:
+          m_Limit: 10
+          m_Bounciness: 0.3
+          m_ContactDistance: 20
+        m_LimitY:
+          m_Limit: 60
+          m_Bounciness: 0.3
+          m_ContactDistance: 12
+        m_LimitZ:
+          m_Limit: 30
+          m_Bounciness: 0.3
+          m_ContactDistance: 6
+    - rid: 1121869122702934250
+      type: {class: JointConfigurable, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data:
+        m_Parent:
+          m_Type: 1
+          m_Human: 13
+          m_Path: 
+        m_LinearMotion: 0
+        m_AngularMotion: 1
+        m_PrimaryAxis: {x: 0, y: -1, z: 0}
+        m_SecondaryAxis: {x: 0, y: 0, z: 1}
+        m_SpringLimitX:
+          m_Spring: 230
+          m_Damper: 15
+        m_SpringLimitYZ:
+          m_Spring: 230
+          m_Damper: 15
+        m_LimitXLow:
+          m_Limit: 0
+          m_Bounciness: 0.3
+          m_ContactDistance: 25
+        m_LimitXHigh:
+          m_Limit: 120
+          m_Bounciness: 0.3
+          m_ContactDistance: 25
+        m_LimitY:
+          m_Limit: 30
+          m_Bounciness: 0.3
+          m_ContactDistance: 6
+        m_LimitZ:
+          m_Limit: 0
+          m_Bounciness: 0.3
+          m_ContactDistance: 0
+    - rid: 1121869122702934251
+      type: {class: JointConfigurable, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data:
+        m_Parent:
+          m_Type: 1
+          m_Human: 15
+          m_Path: 
+        m_LinearMotion: 0
+        m_AngularMotion: 1
+        m_PrimaryAxis: {x: 0, y: 0, z: -1}
+        m_SecondaryAxis: {x: 0, y: -1, z: 0}
+        m_SpringLimitX:
+          m_Spring: 160
+          m_Damper: 10
+        m_SpringLimitYZ:
+          m_Spring: 230
+          m_Damper: 15
+        m_LimitXLow:
+          m_Limit: -2
+          m_Bounciness: 0.3
+          m_ContactDistance: 20
+        m_LimitXHigh:
+          m_Limit: 95
+          m_Bounciness: 0.3
+          m_ContactDistance: 20
+        m_LimitY:
+          m_Limit: 20
+          m_Bounciness: 0.3
+          m_ContactDistance: 4
+        m_LimitZ:
+          m_Limit: 15
+          m_Bounciness: 0.3
+          m_ContactDistance: 3
+    - rid: 1121869122702934252
+      type: {class: JointConfigurable, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data:
+        m_Parent:
+          m_Type: 1
+          m_Human: 12
+          m_Path: 
+        m_LinearMotion: 0
+        m_AngularMotion: 1
+        m_PrimaryAxis: {x: 0, y: 1, z: 0}
+        m_SecondaryAxis: {x: 0, y: 0, z: -1}
+        m_SpringLimitX:
+          m_Spring: 380
+          m_Damper: 22
+        m_SpringLimitYZ:
+          m_Spring: 380
+          m_Damper: 22
+        m_LimitXLow:
+          m_Limit: -90
+          m_Bounciness: 0.3
+          m_ContactDistance: 20
+        m_LimitXHigh:
+          m_Limit: 10
+          m_Bounciness: 0.3
+          m_ContactDistance: 20
+        m_LimitY:
+          m_Limit: 60
+          m_Bounciness: 0.3
+          m_ContactDistance: 12
+        m_LimitZ:
+          m_Limit: 30
+          m_Bounciness: 0.3
+          m_ContactDistance: 6
+    - rid: 1121869122702934253
+      type: {class: JointConfigurable, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data:
+        m_Parent:
+          m_Type: 1
+          m_Human: 14
+          m_Path: 
+        m_LinearMotion: 0
+        m_AngularMotion: 1
+        m_PrimaryAxis: {x: 0, y: 1, z: 0}
+        m_SecondaryAxis: {x: 0, y: 0, z: 1}
+        m_SpringLimitX:
+          m_Spring: 230
+          m_Damper: 15
+        m_SpringLimitYZ:
+          m_Spring: 230
+          m_Damper: 15
+        m_LimitXLow:
+          m_Limit: 0
+          m_Bounciness: 0.3
+          m_ContactDistance: 25
+        m_LimitXHigh:
+          m_Limit: 120
+          m_Bounciness: 0.3
+          m_ContactDistance: 25
+        m_LimitY:
+          m_Limit: 30
+          m_Bounciness: 0.3
+          m_ContactDistance: 6
+        m_LimitZ:
+          m_Limit: 0
+          m_Bounciness: 0.3
+          m_ContactDistance: 0
+    - rid: 1121869122702934254
+      type: {class: JointConfigurable, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data:
+        m_Parent:
+          m_Type: 1
+          m_Human: 16
+          m_Path: 
+        m_LinearMotion: 0
+        m_AngularMotion: 1
+        m_PrimaryAxis: {x: 0, y: 0, z: 1}
+        m_SecondaryAxis: {x: 0, y: -1, z: 0}
+        m_SpringLimitX:
+          m_Spring: 160
+          m_Damper: 10
+        m_SpringLimitYZ:
+          m_Spring: 230
+          m_Damper: 15
+        m_LimitXLow:
+          m_Limit: -2
+          m_Bounciness: 0.3
+          m_ContactDistance: 20
+        m_LimitXHigh:
+          m_Limit: 95
+          m_Bounciness: 0.3
+          m_ContactDistance: 20
+        m_LimitY:
+          m_Limit: 20
+          m_Bounciness: 0.3
+          m_ContactDistance: 4
+        m_LimitZ:
+          m_Limit: 15
+          m_Bounciness: 0.3
+          m_ContactDistance: 3
+    - rid: 1121869122702934255
+      type: {class: JointConfigurable, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data:
+        m_Parent:
+          m_Type: 1
+          m_Human: 7
+          m_Path: 
+        m_LinearMotion: 0
+        m_AngularMotion: 1
+        m_PrimaryAxis: {x: -1, y: 0, z: 0}
+        m_SecondaryAxis: {x: 0, y: 0, z: 1}
+        m_SpringLimitX:
+          m_Spring: 470
+          m_Damper: 30
+        m_SpringLimitYZ:
+          m_Spring: 470
+          m_Damper: 30
+        m_LimitXLow:
+          m_Limit: -5
+          m_Bounciness: 0.3
+          m_ContactDistance: 5
+        m_LimitXHigh:
+          m_Limit: 20
+          m_Bounciness: 0.3
+          m_ContactDistance: 5
+        m_LimitY:
+          m_Limit: 5
+          m_Bounciness: 0.3
+          m_ContactDistance: 1
+        m_LimitZ:
+          m_Limit: 10
+          m_Bounciness: 0.3
+          m_ContactDistance: 2
+    - rid: 1121869122702934256
+      type: {class: JointConfigurable, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data:
+        m_Parent:
+          m_Type: 1
+          m_Human: 8
+          m_Path: 
+        m_LinearMotion: 0
+        m_AngularMotion: 1
+        m_PrimaryAxis: {x: -1, y: 0, z: 0}
+        m_SecondaryAxis: {x: 0, y: 0, z: 1}
+        m_SpringLimitX:
+          m_Spring: 400
+          m_Damper: 25
+        m_SpringLimitYZ:
+          m_Spring: 400
+          m_Damper: 25
+        m_LimitXLow:
+          m_Limit: -5
+          m_Bounciness: 0.3
+          m_ContactDistance: 5
+        m_LimitXHigh:
+          m_Limit: 15
+          m_Bounciness: 0.3
+          m_ContactDistance: 5
+        m_LimitY:
+          m_Limit: 5
+          m_Bounciness: 0.3
+          m_ContactDistance: 1
+        m_LimitZ:
+          m_Limit: 10
+          m_Bounciness: 0.3
+          m_ContactDistance: 2
+    - rid: 1121869122702934257
+      type: {class: JointConfigurable, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data:
+        m_Parent:
+          m_Type: 1
+          m_Human: 54
+          m_Path: 
+        m_LinearMotion: 0
+        m_AngularMotion: 1
+        m_PrimaryAxis: {x: 0, y: 0, z: 1}
+        m_SecondaryAxis: {x: 0, y: 1, z: 0}
+        m_SpringLimitX:
+          m_Spring: 250
+          m_Damper: 15
+        m_SpringLimitYZ:
+          m_Spring: 250
+          m_Damper: 15
+        m_LimitXLow:
+          m_Limit: -15
+          m_Bounciness: 0.3
+          m_ContactDistance: 6
+        m_LimitXHigh:
+          m_Limit: 15
+          m_Bounciness: 0.3
+          m_ContactDistance: 6
+        m_LimitY:
+          m_Limit: 15
+          m_Bounciness: 0.3
+          m_ContactDistance: 3
+        m_LimitZ:
+          m_Limit: 15
+          m_Bounciness: 0.3
+          m_ContactDistance: 3
+    - rid: 1121869122702934258
+      type: {class: JointConfigurable, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data:
+        m_Parent:
+          m_Type: 1
+          m_Human: 54
+          m_Path: 
+        m_LinearMotion: 0
+        m_AngularMotion: 1
+        m_PrimaryAxis: {x: 0, y: 0, z: 1}
+        m_SecondaryAxis: {x: 0, y: -1, z: 0}
+        m_SpringLimitX:
+          m_Spring: 250
+          m_Damper: 15
+        m_SpringLimitYZ:
+          m_Spring: 250
+          m_Damper: 15
+        m_LimitXLow:
+          m_Limit: -15
+          m_Bounciness: 0.3
+          m_ContactDistance: 6
+        m_LimitXHigh:
+          m_Limit: 15
+          m_Bounciness: 0.3
+          m_ContactDistance: 6
+        m_LimitY:
+          m_Limit: 15
+          m_Bounciness: 0.3
+          m_ContactDistance: 3
+        m_LimitZ:
+          m_Limit: 15
+          m_Bounciness: 0.3
+          m_ContactDistance: 3
+    - rid: 1121869122702934259
+      type: {class: JointConfigurable, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data:
+        m_Parent:
+          m_Type: 1
+          m_Human: 54
+          m_Path: 
+        m_LinearMotion: 0
+        m_AngularMotion: 1
+        m_PrimaryAxis: {x: -1, y: 0, z: 0}
+        m_SecondaryAxis: {x: 0, y: 0, z: 1}
+        m_SpringLimitX:
+          m_Spring: 350
+          m_Damper: 20
+        m_SpringLimitYZ:
+          m_Spring: 350
+          m_Damper: 20
+        m_LimitXLow:
+          m_Limit: -30
+          m_Bounciness: 0.3
+          m_ContactDistance: 15
+        m_LimitXHigh:
+          m_Limit: 10
+          m_Bounciness: 0.3
+          m_ContactDistance: 15
+        m_LimitY:
+          m_Limit: 10
+          m_Bounciness: 0.3
+          m_ContactDistance: 5
+        m_LimitZ:
+          m_Limit: 10
+          m_Bounciness: 0.3
+          m_ContactDistance: 5

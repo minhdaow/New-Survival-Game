@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 24c8e870ce679ed468479bf4f277bace
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/Prefabs/RPG/Follower.prefab
+  uploadId: 734996

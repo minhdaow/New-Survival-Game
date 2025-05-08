@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5f3cb7392bd7b3d43a2064c079ce2fef
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/Scripts/Editor/RTRPGHierarchyMenu.cs
+  uploadId: 734996

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 54521eada7871e148b7d3d341f74a692
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Inventory/Skills/Attack+.asset
+  uploadId: 734996

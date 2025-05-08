@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 56893ca46ab6a5b449fc066a0b86adf9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Animations/Block_L.anim
+  uploadId: 734996

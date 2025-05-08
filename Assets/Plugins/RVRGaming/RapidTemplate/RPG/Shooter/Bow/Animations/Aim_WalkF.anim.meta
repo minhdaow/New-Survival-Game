@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7e02e52ca74d37e46826f62dbc6cc31f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Shooter/Bow/Animations/Aim_WalkF.anim
+  uploadId: 734996

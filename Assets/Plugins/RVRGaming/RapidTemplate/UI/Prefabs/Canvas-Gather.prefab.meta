@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bd4d9e2933f85c146bbe9d27ae80a089
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/UI/Prefabs/Canvas-Gather.prefab
+  uploadId: 734996

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b349ebffbfac345e6a5405513f458615
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/UI/UI_Loot_Item_RT.prefab
+  uploadId: 734996

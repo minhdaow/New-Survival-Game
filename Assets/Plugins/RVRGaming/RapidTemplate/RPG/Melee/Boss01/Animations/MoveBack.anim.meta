@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bef0bb6a3fa191d4e829d0d67f851f43
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Melee/Boss01/Animations/MoveBack.anim
+  uploadId: 734996

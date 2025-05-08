@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 23a517e78f72c48a4b507671ec6e2097
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Dialogue/Assets/Prefabs/Dialogue_RT_Choice.prefab
+  uploadId: 734996

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3c2571bf5937151418470153f4ad1f96
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Inventory/Items/Inv_Bow.asset
+  uploadId: 734996

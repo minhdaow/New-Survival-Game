@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 04f2ee53b6bd600439df54d72ca1d17f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/UI/Canvas-Popup-Loot.prefab
+  uploadId: 734996

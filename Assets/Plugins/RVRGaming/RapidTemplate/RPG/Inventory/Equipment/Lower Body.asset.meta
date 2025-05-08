@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c78658ccc6a5c774084b1f50bbff8bcc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Inventory/Equipment/Lower
+    Body.asset
+  uploadId: 734996

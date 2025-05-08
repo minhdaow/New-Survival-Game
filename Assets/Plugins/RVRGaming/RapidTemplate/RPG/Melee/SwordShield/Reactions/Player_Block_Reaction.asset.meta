@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b6e4157dfe81fcc4f9fd37a5c3df3a9e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Melee/SwordShield/Reactions/Player_Block_Reaction.asset
+  uploadId: 734996

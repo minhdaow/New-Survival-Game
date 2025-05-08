@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cf773e5381ff6e043a100802f8b9afde
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Melee/SwordShield/Animations/Counter01Vic.anim
+  uploadId: 734996

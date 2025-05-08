@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d9acbb8ea70b6fd4c98669e76e86871d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Inventory/Skills/Healing.asset
+  uploadId: 734996

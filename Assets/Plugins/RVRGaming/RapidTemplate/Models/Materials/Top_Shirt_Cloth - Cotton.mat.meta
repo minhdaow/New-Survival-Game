@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: dce8bf2e4443fa14fad610d8ee7f2833
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/Models/Materials/Top_Shirt_Cloth
+    - Cotton.mat
+  uploadId: 734996

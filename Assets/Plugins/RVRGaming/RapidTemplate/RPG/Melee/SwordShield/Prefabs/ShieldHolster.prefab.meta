@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b8aa940e3b0eec34f866571b38769f4a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Melee/SwordShield/Prefabs/ShieldHolster.prefab
+  uploadId: 734996

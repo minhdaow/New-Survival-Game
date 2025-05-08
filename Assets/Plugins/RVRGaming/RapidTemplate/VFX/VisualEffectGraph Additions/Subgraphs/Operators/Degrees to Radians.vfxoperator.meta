@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 737fe6031605f3240a8b475ed0d3f1d3
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/VFX/VisualEffectGraph Additions/Subgraphs/Operators/Degrees
+    to Radians.vfxoperator
+  uploadId: 734996

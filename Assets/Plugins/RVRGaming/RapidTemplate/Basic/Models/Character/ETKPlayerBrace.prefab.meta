@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f32cf6c5ec876224d9acedd32e20ed07
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/Basic/Models/Character/ETKPlayerBrace.prefab
+  uploadId: 734996

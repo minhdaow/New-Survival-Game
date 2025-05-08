@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: deeb95a9d4d9f8a4c87fbb688114598d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/Models/Materials/Helmet.mat
+  uploadId: 734996

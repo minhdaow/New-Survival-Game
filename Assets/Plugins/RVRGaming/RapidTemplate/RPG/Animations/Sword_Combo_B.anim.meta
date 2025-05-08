@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8ea60fb21e3d92d47bb423d3459a9b90
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Animations/Sword_Combo_B.anim
+  uploadId: 734996

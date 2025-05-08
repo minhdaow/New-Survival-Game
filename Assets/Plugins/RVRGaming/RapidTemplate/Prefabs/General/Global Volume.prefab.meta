@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 298d4e36490282945a87f858f791dceb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/Prefabs/General/Global Volume.prefab
+  uploadId: 734996

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d0ebec2bb58c71241977ae5dc51f3374
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Melee/Double/Enemy_Hammer.asset
+  uploadId: 734996

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3c3cc9f52e4da5945a54247d66f1b600
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Inventory/HolsterRangedHandle.asset
+  uploadId: 734996

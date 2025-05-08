@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7bd183dba260d48499f98eb7980dbe78
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/VFX/VisualEffectGraph Additions/VFX/Flames.vfx
+  uploadId: 734996

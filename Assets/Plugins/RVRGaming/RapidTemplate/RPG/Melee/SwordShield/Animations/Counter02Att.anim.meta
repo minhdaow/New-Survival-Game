@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8a43f5fa292930f46a4d58c7bca690c1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Melee/SwordShield/Animations/Counter02Att.anim
+  uploadId: 734996

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3669a470bcdbe124e8a43104a93cebde
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Inventory/Equipment/Ingredient.asset
+  uploadId: 734996

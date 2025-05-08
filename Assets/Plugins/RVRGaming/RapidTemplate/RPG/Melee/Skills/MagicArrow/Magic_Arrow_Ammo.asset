@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 884ca14373194cf390e4803ac386abca, type: 3}
+  m_Name: Magic_Arrow_Ammo
+  m_EditorClassIdentifier: 
+  m_Id:
+    m_SerializedID:
+      m_String: 835cf57a-1401-46b6-acb8-88776df3cebf
+  m_Title:
+    m_Property:
+      rid: 7184097267519062565
+  m_Description:
+    m_Property:
+      rid: 7184097267519062566
+  m_Icon:
+    m_Property:
+      rid: 7184097267519062567
+  m_Color:
+    m_Property:
+      rid: 7184097267519062568
+  m_Infinite: 1
+  m_Value:
+    m_Property:
+      rid: 7184097267519062569
+  references:
+    version: 2
+    RefIds:
+    - rid: 7184097267519062565
+      type: {class: GetStringString, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
+      data:
+        m_Value: 
+    - rid: 7184097267519062566
+      type: {class: GetStringTextArea, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
+      data:
+        m_Text:
+          m_Text: 
+    - rid: 7184097267519062567
+      type: {class: GetSpriteNone, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
+      data: 
+    - rid: 7184097267519062568
+      type: {class: GetColorColorsWhite, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
+      data: 
+    - rid: 7184097267519062569
+      type: {class: SetNumberMunition, ns: GameCreator.Runtime.Shooter, asm: GameCreator.Runtime.Shooter}
+      data:
+        m_Character:
+          m_Property:
+            rid: 7184097267519062570
+        m_Weapon:
+          m_Property:
+            rid: 7184097267519062571
+    - rid: 7184097267519062570
+      type: {class: GetGameObjectSelf, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
+      data: 
+    - rid: 7184097267519062571
+      type: {class: GetWeaponShooterCharacter, ns: GameCreator.Runtime.Shooter, asm: GameCreator.Runtime.Shooter}
+      data:
+        m_Character:
+          m_Property:
+            rid: 7184097267519062572
+    - rid: 7184097267519062572
+      type: {class: GetGameObjectSelf, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
+      data: 

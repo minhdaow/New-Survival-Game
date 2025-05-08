@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fe7fee7c917e5ef4f82ce106cdb0c59c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Inventory/Equipment/Left
+    Hand.asset
+  uploadId: 734996

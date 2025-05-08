@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eb5e8096f25cf104f86170775c50db4e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/Models/Props/Meshes/Cape.mesh
+  uploadId: 734996

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8bb0d7da796fb6145803a9fdb237d5f7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Animations/Swim Locomotion
+    State.asset
+  uploadId: 734996

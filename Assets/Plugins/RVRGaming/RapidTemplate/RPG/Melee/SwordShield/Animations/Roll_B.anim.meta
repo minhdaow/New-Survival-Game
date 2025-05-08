@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 27d13ff9e51343b42ab3f281bc44edcd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Melee/SwordShield/Animations/Roll_B.anim
+  uploadId: 734996

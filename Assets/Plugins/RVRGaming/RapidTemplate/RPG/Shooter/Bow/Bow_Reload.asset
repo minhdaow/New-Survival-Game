@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab374420130b54cb29e93a4f6698a38e, type: 3}
+  m_Name: Bow_Reload
+  m_EditorClassIdentifier: 
+  m_Title:
+    m_Property:
+      rid: 7184097221968921536
+  m_Description:
+    m_Property:
+      rid: 7184097221968921537
+  m_Icon:
+    m_Property:
+      rid: 7184097221968921538
+  m_Color:
+    m_Property:
+      rid: 7184097221968921539
+  m_Animation: {fileID: 7400000, guid: c24c8f89d8494c343bebed1466913378, type: 2}
+  m_Mask: {fileID: 31900000, guid: cca9a4e66187e2640b74ce9226e6a5e4, type: 2}
+  m_TransitionIn: 0.25
+  m_TransitionOut: 0.25
+  m_UseRootMotion: 0
+  m_ReloadSequence:
+    m_Sequence:
+      m_Tracks:
+      - rid: 7184097221968921540
+      - rid: 7184097221968921541
+      - rid: 7184097221968921542
+  m_Speed:
+    m_Property:
+      rid: 7184097221968921543
+  m_DiscardMagazineAmmo:
+    m_Property:
+      rid: 7184097221968921544
+  m_Reload: 0
+  m_ReloadAmount:
+    m_Property:
+      rid: 7184097221968921545
+  m_OnStart:
+    m_Instructions:
+      m_Instructions: []
+  m_OnFinish:
+    m_Instructions:
+      m_Instructions: []
+  <EditorModelPath>k__BackingField: 
+  <EditorWeaponPath>k__BackingField: Assets/Plugins/RVRGaming/ETKRPG/Shooter/Bow/Prefabs/Bow_Prefab.prefab
+  <EditorWeaponBone>k__BackingField: Mannequin
+  <EditorWeaponLocalPosition>k__BackingField: {x: 0, y: 0, z: 0}
+  <EditorWeaponLocalRotation>k__BackingField: {x: 0, y: 0, z: 0, w: 1}
+  references:
+    version: 2
+    RefIds:
+    - rid: 7184097221968921536
+      type: {class: GetStringString, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
+      data:
+        m_Value: 
+    - rid: 7184097221968921537
+      type: {class: GetStringEmpty, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
+      data: 
+    - rid: 7184097221968921538
+      type: {class: GetSpriteNone, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
+      data: 
+    - rid: 7184097221968921539
+      type: {class: GetColorColorsWhite, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
+      data: 
+    - rid: 7184097221968921540
+      type: {class: TrackReloadMagazine, ns: GameCreator.Runtime.Shooter, asm: GameCreator.Runtime.Shooter}
+      data:
+        m_Clips:
+        - rid: 7184097221968921546
+    - rid: 7184097221968921541
+      type: {class: TrackReloadQuick, ns: GameCreator.Runtime.Shooter, asm: GameCreator.Runtime.Shooter}
+      data:
+        m_Clips: []
+    - rid: 7184097221968921542
+      type: {class: TrackDefault, ns: GameCreator.Runtime.VisualScripting, asm: GameCreator.Runtime.Core}
+      data:
+        m_Clips: []
+    - rid: 7184097221968921543
+      type: {class: GetDecimalConstantOne, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
+      data: 
+    - rid: 7184097221968921544
+      type: {class: GetBoolFalse, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
+      data: 
+    - rid: 7184097221968921545
+      type: {class: GetDecimalConstantOne, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
+      data: 
+    - rid: 7184097221968921546
+      type: {class: ClipReloadMagazine, ns: GameCreator.Runtime.Shooter, asm: GameCreator.Runtime.Shooter}
+      data:
+        m_Time: 0.2
+        m_Duration: 0.3
+        m_Prefab:
+          m_Property:
+            rid: 7184097221968921547
+        m_StartOn:
+          m_Type: 1
+          m_Bone:
+            m_Type: 1
+            m_Human: 17
+            m_Path: 
+          m_LocalPosition: {x: 0, y: 0, z: 0}
+          m_LocalRotation: {x: 0, y: 0, z: 0}
+          m_Handle: {fileID: 11400000, guid: 2c5899c88b1da504181ba418781173f0, type: 2}
+        m_CompleteOn:
+          m_Property:
+            rid: 7184097262662321007
+        m_LocalPosition: {x: 0.000139, y: 0.000339, z: 0}
+        m_LocalRotation: {x: 82.228, y: -0.001, z: -0.001}
+        m_Transition: 0.25
+    - rid: 7184097221968921547
+      type: {class: GetGameObjectInstance, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
+      data:
+        m_GameObject: {fileID: 7856719192462930429, guid: 30bf859e5b845a24baa96328551b6ed8,
+          type: 3}
+    - rid: 7184097262662321007
+      type: {class: GetGameObjectLocalName, ns: GameCreator.Runtime.Variables, asm: GameCreator.Runtime.Core}
+      data:
+        m_Variable:
+          m_TypeID:
+            m_String: game-object
+          m_Variable:
+            rid: 7184097262662321008
+          m_Name:
+            m_String: string
+            m_ID: -1631669591
+    - rid: 7184097262662321008
+      type: {class: PropertyGetGameObject, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
+      data:
+        m_Property:
+          rid: 7184097262662321010
+    - rid: 7184097262662321010
+      type: {class: GetGameObjectTarget, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
+      data: 

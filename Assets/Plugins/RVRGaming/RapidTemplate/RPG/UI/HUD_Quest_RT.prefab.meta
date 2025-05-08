@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 75916ddee261641d9ad5c4ada500a57d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/UI/HUD_Quest_RT.prefab
+  uploadId: 734996

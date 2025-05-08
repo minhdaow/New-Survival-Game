@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b48913f5af6d644ca9921965391e3115
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Inventory/UI/Prefabs/UI_Item_Socket.prefab
+  uploadId: 734996

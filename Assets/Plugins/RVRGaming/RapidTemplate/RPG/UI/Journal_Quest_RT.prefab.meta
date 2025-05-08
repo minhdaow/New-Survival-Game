@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4e15df202f2b241e383fa68c837b8cd8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/UI/Journal_Quest_RT.prefab
+  uploadId: 734996

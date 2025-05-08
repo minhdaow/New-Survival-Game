@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d2a75bf716a4d174b81c462a290e1c22
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Dialogue/Actor_RT.asset
+  uploadId: 734996

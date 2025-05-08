@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e1ba958f3faf52e42959cc0b540267e9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/Prefabs/RPG/Canvas-IndicatorAwareness.prefab
+  uploadId: 734996

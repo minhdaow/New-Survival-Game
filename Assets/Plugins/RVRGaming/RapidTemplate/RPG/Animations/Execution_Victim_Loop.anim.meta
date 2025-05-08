@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5620329d78dbac04ab55ef0dc34aae3e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Animations/Execution_Victim_Loop.anim
+  uploadId: 734996

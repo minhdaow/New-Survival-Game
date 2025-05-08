@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 209e139ae14140640a6679bf9798e362
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Inventory/Skills/UI/Prefabs/Canvas-Popup-Skill.prefab
+  uploadId: 734996

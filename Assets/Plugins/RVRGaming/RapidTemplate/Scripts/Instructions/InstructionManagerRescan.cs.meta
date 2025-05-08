@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 753f948bea87b6247a4338b51fdad385
+timeCreated: 1688803815
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/Scripts/Instructions/InstructionManagerRescan.cs
+  uploadId: 734996

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f2687b8c2ebc5f446ac5f1607a9d92f6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Animations/Sword_Parry.anim
+  uploadId: 734996

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a4281c158154de98f11bf4a7c725adb, type: 3}
+  m_Name: Money
+  m_EditorClassIdentifier: 
+  m_Coins:
+    m_List:
+    - rid: 7184097082985152717
+  m_UniqueID:
+    m_SerializedID:
+      m_String: ee07c775-fa78-4b21-8467-f9495a54a9c3
+  references:
+    version: 2
+    RefIds:
+    - rid: 7184097082985152717
+      type: {class: Coin, ns: GameCreator.Runtime.Inventory, asm: GameCreator.Runtime.Inventory}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Value: 1
+        m_Name:
+          m_Property:
+            rid: 7184097082985152718
+        m_Icon:
+          m_Property:
+            rid: 7184097082985152719
+        m_Tint:
+          m_Property:
+            rid: 7184097082985152720
+    - rid: 7184097082985152718
+      type: {class: GetStringString, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
+      data:
+        m_Value: Bucks
+    - rid: 7184097082985152719
+      type: {class: GetSpriteInstance, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
+      data:
+        m_Sprite: {fileID: 21300000, guid: 95624b4681a9fe94a824aeba6d1ca952, type: 3}
+    - rid: 7184097082985152720
+      type: {class: GetColorColorsWhite, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
+      data: 

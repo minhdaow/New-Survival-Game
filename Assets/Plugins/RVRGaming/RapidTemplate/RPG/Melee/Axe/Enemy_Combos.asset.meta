@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5462c62d8a306e04e8438a4ca2b56d31
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Melee/Axe/Enemy_Combos.asset
+  uploadId: 734996

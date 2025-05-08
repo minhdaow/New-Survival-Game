@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 05ac1cebed71cec4f8a4eb14cf30d055
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/VFX/Healing/HealingGraph.vfx
+  uploadId: 734996

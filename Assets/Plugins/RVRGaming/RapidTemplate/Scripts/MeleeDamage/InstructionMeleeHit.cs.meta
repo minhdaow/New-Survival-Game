@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: b881ae9b34419894ca5ea235e59ededb
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/Scripts/MeleeDamage/InstructionMeleeHit.cs
+  uploadId: 734996

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 87d1d734739f10440b2bdbb449c09a9e
+timeCreated: 1559923513
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/Models/Props/Prefabs/Misc/wagon_01.prefab
+  uploadId: 734996

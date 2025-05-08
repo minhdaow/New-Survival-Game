@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8cedfe3cfd86aeb4b912d4fc2967516c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Melee/SwordShield/Animations/Parry_Reaction.anim
+  uploadId: 734996

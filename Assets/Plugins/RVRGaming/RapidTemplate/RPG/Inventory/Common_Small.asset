@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9616735243e64a10b23f567310d9b616, type: 3}
+  m_Name: Common_Small
+  m_EditorClassIdentifier: 
+  m_NoDropRate: 0
+  m_LootList:
+    m_List:
+    - m_Breakpoint: 0
+      m_IsEnabled: 0
+      m_Rate: 20
+      m_LootType: 0
+      m_Item: {fileID: 11400000, guid: 974dcce324000754395db7fcbe48ede2, type: 2}
+      m_Currency: {fileID: 0}
+      m_Amount: 1
+      m_AmountConstant: 15
+      m_AmountMinimum: 5
+      m_AmountMaximum: 30
+    - m_Breakpoint: 0
+      m_IsEnabled: 0
+      m_Rate: 20
+      m_LootType: 0
+      m_Item: {fileID: 11400000, guid: 36e9e8c5943d59f4999bd05bb8d7e44a, type: 2}
+      m_Currency: {fileID: 0}
+      m_Amount: 1
+      m_AmountConstant: 1
+      m_AmountMinimum: 1
+      m_AmountMaximum: 2
+    - m_Breakpoint: 0
+      m_IsEnabled: 0
+      m_Rate: 10
+      m_LootType: 0
+      m_Item: {fileID: 11400000, guid: 321fb7bb3f7060444b782e1d30b15398, type: 2}
+      m_Currency: {fileID: 0}
+      m_Amount: 1
+      m_AmountConstant: 1
+      m_AmountMinimum: 1
+      m_AmountMaximum: 4
+    - m_Breakpoint: 0
+      m_IsEnabled: 0
+      m_Rate: 20
+      m_LootType: 0
+      m_Item: {fileID: 11400000, guid: 0663651fb64ab314da52419174cad1d1, type: 2}
+      m_Currency: {fileID: 0}
+      m_Amount: 1
+      m_AmountConstant: 20
+      m_AmountMinimum: 10
+      m_AmountMaximum: 20

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ae686d66649400a4d8d7d5c7fcf44627
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/Prefabs/RPG/Camera Shot Topdown.prefab
+  uploadId: 734996

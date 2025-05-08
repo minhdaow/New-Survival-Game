@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8263e46ef835e488683df802d619487f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Inventory/UI/UI_Inventory.controller
+  uploadId: 734996

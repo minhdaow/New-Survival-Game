@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 68439c3d50fe2974e90029472dfedee1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/Models/Materials/Body.mat
+  uploadId: 734996

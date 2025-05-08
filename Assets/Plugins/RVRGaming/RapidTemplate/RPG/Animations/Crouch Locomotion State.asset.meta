@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0f69f768e41af964182da7e2934f032b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Animations/Crouch Locomotion
+    State.asset
+  uploadId: 734996

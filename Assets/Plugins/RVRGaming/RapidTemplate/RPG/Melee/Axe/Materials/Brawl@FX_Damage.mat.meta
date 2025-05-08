@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ce72802d0062ecc4f8f0865520d99840
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Melee/Axe/Materials/Brawl@FX_Damage.mat
+  uploadId: 734996

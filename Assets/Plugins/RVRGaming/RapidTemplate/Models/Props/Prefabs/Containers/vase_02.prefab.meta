@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 645e0ccb96eef934aa12bd4c02a4bd66
+timeCreated: 1559923382
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/Models/Props/Prefabs/Containers/vase_02.prefab
+  uploadId: 734996

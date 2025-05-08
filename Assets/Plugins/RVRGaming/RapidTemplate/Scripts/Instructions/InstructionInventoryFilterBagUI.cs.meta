@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: a54ec6e492c5d3e4abb77ba132b4e8fe
+timeCreated: 1643363807
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/Scripts/Instructions/InstructionInventoryFilterBagUI.cs
+  uploadId: 734996

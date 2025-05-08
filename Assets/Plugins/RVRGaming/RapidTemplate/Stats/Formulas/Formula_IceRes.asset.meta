@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c88c7a399ca2d6540b5f877a575b4b44
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/Stats/Formulas/Formula_IceRes.asset
+  uploadId: 734996

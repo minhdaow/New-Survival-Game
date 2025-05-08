@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f15ee54d77ee3e04f835ac330c9eff3d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Melee/Axe/Animations/Idle.anim
+  uploadId: 734996

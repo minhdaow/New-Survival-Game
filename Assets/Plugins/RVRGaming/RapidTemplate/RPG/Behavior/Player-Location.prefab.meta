@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6b4fd811634d8164ab4f7a9b75f8e201
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Behavior/Player-Location.prefab
+  uploadId: 734996

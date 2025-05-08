@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b43aad954f7a81349beb8b7e47e600d6
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/VFX/VisualEffectGraph Additions/Subgraphs/Operators/Clamp
+    (AABox).vfxoperator
+  uploadId: 734996

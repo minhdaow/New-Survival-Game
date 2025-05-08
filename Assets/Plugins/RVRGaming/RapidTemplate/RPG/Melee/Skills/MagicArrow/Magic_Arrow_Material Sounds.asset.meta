@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: aa75a25d30dbef947b9fa189b560ad05
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Melee/Skills/MagicArrow/Magic_Arrow_Material
+    Sounds.asset
+  uploadId: 734996

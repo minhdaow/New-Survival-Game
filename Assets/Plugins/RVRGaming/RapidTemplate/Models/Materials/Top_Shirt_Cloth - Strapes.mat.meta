@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ee9cc46617ddcf94980e95fd6eda4823
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/Models/Materials/Top_Shirt_Cloth
+    - Strapes.mat
+  uploadId: 734996

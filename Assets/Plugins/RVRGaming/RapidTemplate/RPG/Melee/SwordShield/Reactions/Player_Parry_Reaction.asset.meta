@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d19fc23913a4afe4bbe6ed81e02a3100
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Melee/SwordShield/Reactions/Player_Parry_Reaction.asset
+  uploadId: 734996

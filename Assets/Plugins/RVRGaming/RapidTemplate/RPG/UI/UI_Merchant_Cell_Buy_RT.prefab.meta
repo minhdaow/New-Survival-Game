@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 53631163ec0d24a299a0f1444085e99d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/UI/UI_Merchant_Cell_Buy_RT.prefab
+  uploadId: 734996

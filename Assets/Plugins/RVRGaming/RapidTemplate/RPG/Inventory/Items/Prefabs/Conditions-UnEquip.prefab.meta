@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 14c4931852a253448afed26da3eab2e4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Inventory/Items/Prefabs/Conditions-UnEquip.prefab
+  uploadId: 734996

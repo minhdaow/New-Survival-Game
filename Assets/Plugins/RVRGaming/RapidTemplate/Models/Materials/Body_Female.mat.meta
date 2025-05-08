@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 99b2862761f8abd4084a2db89d954525
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/Models/Materials/Body_Female.mat
+  uploadId: 734996

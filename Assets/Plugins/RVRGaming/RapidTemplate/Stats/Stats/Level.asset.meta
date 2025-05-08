@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1ad43fac815f5d84eb0c04c3d4816701
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/Stats/Stats/Level.asset
+  uploadId: 734996

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c50e0dae67e53b64c96cbc9c45f53447
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/Scripts/GroupManager/Editor/EnemyManagerEditor.cs
+  uploadId: 734996

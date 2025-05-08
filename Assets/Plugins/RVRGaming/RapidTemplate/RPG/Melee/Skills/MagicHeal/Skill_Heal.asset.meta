@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ba122f9d6976e05459eb261c5a832a91
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Melee/Skills/MagicHeal/Skill_Heal.asset
+  uploadId: 734996

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9da75de35c7d0fa44b64c83f0b1c0266
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/VFX/VisualEffectGraph Additions/Subgraphs/Operators/Tween/Tween
+    Ease In Elastic.vfxoperator
+  uploadId: 734996

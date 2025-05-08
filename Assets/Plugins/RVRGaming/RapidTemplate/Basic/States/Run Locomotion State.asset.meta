@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4dcbb1f2160b6ea4880afe51c34882a7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/Basic/States/Run Locomotion State.asset
+  uploadId: 734996

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9ef1dab8c84f37e4894520ab3b7483af
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Melee/SwordShield/Prefabs/RangedHolster.prefab
+  uploadId: 734996

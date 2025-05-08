@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a58683e4c6e3bd243b2998955c7641f0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/Models/Weapons/Materials/Standard_Material
+    1.mat
+  uploadId: 734996

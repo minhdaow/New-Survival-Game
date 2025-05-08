@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4562b96045a5fed41ac3688aea412821
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Inventory/Items/Prefabs/Actions-EquipBow.prefab
+  uploadId: 734996

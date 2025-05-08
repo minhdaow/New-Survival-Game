@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bfbffac5b9e601347ae9feb5d51931eb
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/VFX/VisualEffectGraph Additions/Subgraphs/Operators/Random
+    Vector.vfxoperator
+  uploadId: 734996

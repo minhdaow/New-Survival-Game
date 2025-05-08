@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 94003cdd02bfa0849b07108d63f10e24
+timeCreated: 1559923427
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/Models/Props/Prefabs/Furniture/Benches/bench_wood_01.prefab
+  uploadId: 734996

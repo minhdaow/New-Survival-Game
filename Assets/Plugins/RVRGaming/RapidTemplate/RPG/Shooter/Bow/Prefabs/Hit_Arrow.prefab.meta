@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9f6584a9f4ea3a04ebc083582c185498
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Shooter/Bow/Prefabs/Hit_Arrow.prefab
+  uploadId: 734996

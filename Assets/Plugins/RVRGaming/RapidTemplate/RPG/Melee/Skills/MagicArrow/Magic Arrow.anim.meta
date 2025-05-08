@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 25ae6f1e0b5534b428ee27c38946b221
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Melee/Skills/MagicArrow/Magic
+    Arrow.anim
+  uploadId: 734996

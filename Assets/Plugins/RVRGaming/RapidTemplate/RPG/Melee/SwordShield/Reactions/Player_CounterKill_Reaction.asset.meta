@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 65cf387da3b01a341899e2ee8c1c7aea
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Melee/SwordShield/Reactions/Player_CounterKill_Reaction.asset
+  uploadId: 734996

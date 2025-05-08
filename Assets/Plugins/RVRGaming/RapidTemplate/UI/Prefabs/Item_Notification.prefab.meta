@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 40254729a14e07c4ab9a4775690d25e7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/UI/Prefabs/Item_Notification.prefab
+  uploadId: 734996

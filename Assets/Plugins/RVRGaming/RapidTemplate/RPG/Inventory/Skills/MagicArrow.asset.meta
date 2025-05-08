@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f78ca5f8d5c937f458565c5b1afc0625
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294519
+  packageName: Rapid Template - RPG
+  packageVersion: 1.4.0
+  assetPath: Assets/Plugins/RVRGaming/RapidTemplate/RPG/Inventory/Skills/MagicArrow.asset
+  uploadId: 734996
