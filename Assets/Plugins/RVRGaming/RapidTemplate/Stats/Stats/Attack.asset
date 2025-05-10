@@ -15,7 +15,7 @@ MonoBehaviour:
   m_ID:
     m_String: attack
   m_Data:
-    m_Base: 20
+    m_Base: 0
     m_Formula: {fileID: 11400000, guid: 4b20b383429714d478173fe7a1b4f8cb, type: 2}
   m_Info:
     m_Name:

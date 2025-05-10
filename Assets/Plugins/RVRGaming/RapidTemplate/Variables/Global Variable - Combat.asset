@@ -128,6 +128,21 @@ MonoBehaviour:
         m_Breakpoint: 0
         m_IsEnabled: 1
         m_Value: {fileID: 0}
+    - rid: 1121869318403129417
+      type: {class: NameVariable, ns: GameCreator.Runtime.Variables, asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Value:
+          rid: 1121869318403129419
+        m_Name:
+          m_String: CurrentWeaponItem
+    - rid: 1121869318403129419
+      type: {class: ValueItem, ns: GameCreator.Runtime.Inventory, asm: GameCreator.Runtime.Inventory}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Value: {fileID: 0}
     - rid: 2313994016841269672
       type: {class: NameVariable, ns: GameCreator.Runtime.Variables, asm: GameCreator.Runtime.Core}
       data:
@@ -278,6 +293,7 @@ MonoBehaviour:
         - rid: 1121869197157073044
         - rid: 1121869197157073046
         - rid: 1121869197157073213
+        - rid: 1121869318403129417
     - rid: 4895007629096518236
       type: {class: NameVariable, ns: GameCreator.Runtime.Variables, asm: GameCreator.Runtime.Core}
       data:

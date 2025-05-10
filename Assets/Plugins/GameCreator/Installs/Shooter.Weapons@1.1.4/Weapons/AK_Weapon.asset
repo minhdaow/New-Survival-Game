@@ -272,6 +272,8 @@ MonoBehaviour:
     m_Instructions:
       m_Instructions:
       - rid: 3428531703245439911
+      - rid: 1121869318207307935
+      - rid: 1121869318207307937
   m_Animations:
     m_Idle: {fileID: 0}
     m_Empty: {fileID: 0}
@@ -288,6 +290,52 @@ MonoBehaviour:
   references:
     version: 2
     RefIds:
+    - rid: 1121869318207307935
+      type: {class: InstructionLogicRunActions, ns: GameCreator.Runtime.VisualScripting, asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Actions:
+          m_Property:
+            rid: 1121869318207307936
+        m_WaitToFinish: 1
+    - rid: 1121869318207307936
+      type: {class: GetGameObjectActions, ns: GameCreator.Runtime.VisualScripting, asm: GameCreator.Runtime.Core}
+      data:
+        m_Actions: {fileID: -2124234612317477778, guid: 80f7f07c678d3d14797c705eb34eb58e, type: 3}
+    - rid: 1121869318207307937
+      type: {class: InstructionStatsChangeAttribute, ns: GameCreator.Runtime.Stats, asm: GameCreator.Runtime.Stats}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Target:
+          m_Property:
+            rid: 1121869318207307941
+        m_Attribute:
+          m_Property:
+            rid: 1121869318207307939
+        m_Change:
+          m_Operation: 2
+          m_Value:
+            m_Property:
+              rid: 1121869318207307942
+    - rid: 1121869318207307939
+      type: {class: GetAttributeInstance, ns: GameCreator.Runtime.Stats, asm: GameCreator.Runtime.Stats}
+      data:
+        m_Attribute: {fileID: 11400000, guid: 821adf9569828cc43a30b3371cf35e9f, type: 2}
+    - rid: 1121869318207307941
+      type: {class: GetGameObjectTarget, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
+      data: 
+    - rid: 1121869318207307942
+      type: {class: GetDecimalGlobalName, ns: GameCreator.Runtime.Variables, asm: GameCreator.Runtime.Core}
+      data:
+        m_Variable:
+          m_TypeID:
+            m_String: number
+          m_Variable: {fileID: 11400000, guid: 3f9ce994ee28753449204afa72b3f4dd, type: 2}
+          m_Name:
+            m_String: PlayerDmg
+            m_ID: -167661741
     - rid: 1903938855789396098
       type: {class: InstructionCameraShakeBurst, ns: GameCreator.Runtime.VisualScripting, asm: GameCreator.Runtime.Core}
       data:

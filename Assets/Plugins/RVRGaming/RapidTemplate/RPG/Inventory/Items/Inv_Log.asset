@@ -45,7 +45,7 @@ MonoBehaviour:
     m_Weight: 5
     m_MaxStack: 99
   m_Price:
-    m_Currency: {fileID: 0}
+    m_Currency: {fileID: 11400000, guid: f161451dbe0f54fedbaaa28716337778, type: 2}
     m_Value: 100
     m_CanBuyFromMerchant: 1
     m_CanSellToMerchant: 1
