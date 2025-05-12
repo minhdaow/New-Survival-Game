@@ -87,6 +87,7 @@ MonoBehaviour:
         - rid: 7184097106882200343
         - rid: 7184097269976400030
         - rid: 7184097269976400033
+        - rid: 1121869331590545844
     m_InstructionsOnUnequip:
       m_Instructions:
         m_Instructions:
@@ -124,6 +125,31 @@ MonoBehaviour:
   references:
     version: 2
     RefIds:
+    - rid: 1121869331590545844
+      type: {class: InstructionInventorySetItem, ns: GameCreator.Runtime.Inventory, asm: GameCreator.Runtime.Inventory}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Set:
+          m_Property:
+            rid: 1121869331590545845
+        m_Item:
+          m_Property:
+            rid: 1121869331590545846
+    - rid: 1121869331590545845
+      type: {class: SetItemGlobalName, ns: GameCreator.Runtime.Inventory, asm: GameCreator.Runtime.Inventory}
+      data:
+        m_Variable:
+          m_TypeID:
+            m_String: item
+          m_Variable: {fileID: 11400000, guid: 7a07624f555c2444190027c01c491483, type: 2}
+          m_Name:
+            m_String: Current-Melee-WeaponItem
+            m_ID: -1359700116
+    - rid: 1121869331590545846
+      type: {class: GetItemInstance, ns: GameCreator.Runtime.Inventory, asm: GameCreator.Runtime.Inventory}
+      data:
+        m_Item: {fileID: 11400000}
     - rid: 1979864532083016105
       type: {class: InstructionGameObjectSetGameObject, ns: GameCreator.Runtime.VisualScripting, asm: GameCreator.Runtime.Core}
       data:

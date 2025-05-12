@@ -91,6 +91,7 @@ MonoBehaviour:
         - rid: 1979864532083016105
         - rid: 7184097265314431398
         - rid: 7184097265314431401
+        - rid: 1121869331590545825
     m_InstructionsOnUnequip:
       m_Instructions:
         m_Instructions:
@@ -132,6 +133,31 @@ MonoBehaviour:
   references:
     version: 2
     RefIds:
+    - rid: 1121869331590545825
+      type: {class: InstructionInventorySetItem, ns: GameCreator.Runtime.Inventory, asm: GameCreator.Runtime.Inventory}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Set:
+          m_Property:
+            rid: 1121869331590545828
+        m_Item:
+          m_Property:
+            rid: 1121869331590545827
+    - rid: 1121869331590545827
+      type: {class: GetItemInstance, ns: GameCreator.Runtime.Inventory, asm: GameCreator.Runtime.Inventory}
+      data:
+        m_Item: {fileID: 11400000}
+    - rid: 1121869331590545828
+      type: {class: SetItemGlobalName, ns: GameCreator.Runtime.Inventory, asm: GameCreator.Runtime.Inventory}
+      data:
+        m_Variable:
+          m_TypeID:
+            m_String: item
+          m_Variable: {fileID: 11400000, guid: 7a07624f555c2444190027c01c491483, type: 2}
+          m_Name:
+            m_String: Current-Shooter-WeaponItem
+            m_ID: -82666982
     - rid: 1979864532083016105
       type: {class: InstructionGameObjectSetGameObject, ns: GameCreator.Runtime.VisualScripting, asm: GameCreator.Runtime.Core}
       data:

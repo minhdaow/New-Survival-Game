@@ -56,6 +56,317 @@ MonoBehaviour:
     - rid: 471971283624788116
       type: {class: MarkerTypeDirection, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
       data: 
+--- !u!1 &4528925538157641110
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4663841075311864558}
+  - component: {fileID: 517995618408443704}
+  m_Layer: 8
+  m_Name: Conditions-UnEquip
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4663841075311864558
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4528925538157641110}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0.7072939, z: -0, w: -0.7069196}
+  m_LocalPosition: {x: 12.068378, y: 0.9625885, z: -9.070532}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3526220408404916548}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &517995618408443704
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4528925538157641110}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 721fb82976bce47f38247178301b66c1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Branches:
+    m_Branches:
+    - rid: 1979864532083015706
+    - rid: 7184097247602409645
+  references:
+    version: 2
+    RefIds:
+    - rid: 1121869335497539612
+      type: {class: InstructionStatsChangeStat, ns: GameCreator.Runtime.Stats, asm: GameCreator.Runtime.Stats}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Target:
+          m_Property:
+            rid: 1121869335497539613
+        m_Stat:
+          m_Property:
+            rid: 1121869335497539614
+        m_Change:
+          m_Operation: 2
+          m_Value:
+            m_Property:
+              rid: 1121869335497539615
+    - rid: 1121869335497539613
+      type: {class: GetGameObjectPlayer, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data: 
+    - rid: 1121869335497539614
+      type: {class: GetStatInstance, ns: GameCreator.Runtime.Stats, asm: GameCreator.Runtime.Stats}
+      data:
+        m_Stat: {fileID: 11400000, guid: 1e71afd1515f0f84f96185ee4ac7571a, type: 2}
+    - rid: 1121869335497539615
+      type: {class: GetDecimalItemPropertyValue, ns: GameCreator.Runtime.Inventory, asm: GameCreator.Runtime.Inventory}
+      data:
+        m_Bag:
+          m_Property:
+            rid: 1121869335497539616
+        m_Item:
+          m_Property:
+            rid: 1121869335497539617
+        m_PropertyId:
+          m_String: attack
+    - rid: 1121869335497539616
+      type: {class: GetGameObjectPlayer, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data: 
+    - rid: 1121869335497539617
+      type: {class: GetItemGlobalName, ns: GameCreator.Runtime.Inventory, asm: GameCreator.Runtime.Inventory}
+      data:
+        m_Variable:
+          m_TypeID:
+            m_String: item
+          m_Variable: {fileID: 11400000, guid: 7a07624f555c2444190027c01c491483, type: 2}
+          m_Name:
+            m_String: Current-Melee-WeaponItem
+            m_ID: -1359700116
+    - rid: 1121869335497539618
+      type: {class: InstructionStatsChangeStat, ns: GameCreator.Runtime.Stats, asm: GameCreator.Runtime.Stats}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Target:
+          m_Property:
+            rid: 1121869335497539619
+        m_Stat:
+          m_Property:
+            rid: 1121869335497539620
+        m_Change:
+          m_Operation: 2
+          m_Value:
+            m_Property:
+              rid: 1121869335497539621
+    - rid: 1121869335497539619
+      type: {class: GetGameObjectPlayer, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data: 
+    - rid: 1121869335497539620
+      type: {class: GetStatInstance, ns: GameCreator.Runtime.Stats, asm: GameCreator.Runtime.Stats}
+      data:
+        m_Stat: {fileID: 11400000, guid: 1e71afd1515f0f84f96185ee4ac7571a, type: 2}
+    - rid: 1121869335497539621
+      type: {class: GetDecimalItemPropertyValue, ns: GameCreator.Runtime.Inventory, asm: GameCreator.Runtime.Inventory}
+      data:
+        m_Bag:
+          m_Property:
+            rid: 1121869335497539622
+        m_Item:
+          m_Property:
+            rid: 1121869335497539623
+        m_PropertyId:
+          m_String: attack
+    - rid: 1121869335497539622
+      type: {class: GetGameObjectPlayer, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data: 
+    - rid: 1121869335497539623
+      type: {class: GetItemGlobalName, ns: GameCreator.Runtime.Inventory, asm: GameCreator.Runtime.Inventory}
+      data:
+        m_Variable:
+          m_TypeID:
+            m_String: item
+          m_Variable: {fileID: 11400000, guid: 7a07624f555c2444190027c01c491483, type: 2}
+          m_Name:
+            m_String: Current-Shooter-WeaponItem
+            m_ID: -82666982
+    - rid: 1979864532083015706
+      type: {class: Branch, ns: GameCreator.Runtime.VisualScripting, asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Description: Sheathe-Melee
+        m_ConditionList:
+          m_Conditions:
+          - rid: 7184097106882200194
+          - rid: 7184097247602409584
+        m_InstructionList:
+          m_Instructions:
+          - rid: 7184097269976399934
+          - rid: 1121869335497539612
+    - rid: 7184097106882200194
+      type: {class: ConditionMeleeHasEquipped, ns: GameCreator.Runtime.Melee, asm: GameCreator.Runtime.Melee}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Sign: 1
+        m_Character:
+          m_Property:
+            rid: 7184097106882200195
+        m_Weapon:
+          m_Property:
+            rid: 7184097106882200196
+    - rid: 7184097106882200195
+      type: {class: GetGameObjectPlayer, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data: 
+    - rid: 7184097106882200196
+      type: {class: GetWeaponMeleeCharacter, ns: GameCreator.Runtime.Melee, asm: GameCreator.Runtime.Melee}
+      data:
+        m_Character:
+          m_Property:
+            rid: 7184097106882200197
+    - rid: 7184097106882200197
+      type: {class: GetGameObjectPlayer, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data: 
+    - rid: 7184097247602409584
+      type: {class: ConditionTextEquals, ns: GameCreator.Runtime.VisualScripting, asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Sign: 1
+        m_Text1:
+          m_Property:
+            rid: 7184097247602409585
+        m_Text2:
+          m_Property:
+            rid: 7184097247602409586
+    - rid: 7184097247602409585
+      type: {class: GetStringGlobalName, ns: GameCreator.Runtime.Variables, asm: GameCreator.Runtime.Core}
+      data:
+        m_Variable:
+          m_TypeID:
+            m_String: string
+          m_Variable: {fileID: 11400000, guid: 7a07624f555c2444190027c01c491483, type: 2}
+          m_Name:
+            m_String: Weapon
+            m_ID: 1855955664
+    - rid: 7184097247602409586
+      type: {class: GetStringString, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
+      data:
+        m_Value: Melee
+    - rid: 7184097247602409645
+      type: {class: Branch, ns: GameCreator.Runtime.VisualScripting, asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Description: Sheathe-Shooter
+        m_ConditionList:
+          m_Conditions:
+          - rid: 7184097263964127951
+          - rid: 7184097247602409679
+        m_InstructionList:
+          m_Instructions:
+          - rid: 7184097265314431396
+          - rid: 1121869335497539618
+    - rid: 7184097247602409679
+      type: {class: ConditionTextEquals, ns: GameCreator.Runtime.VisualScripting, asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Sign: 1
+        m_Text1:
+          m_Property:
+            rid: 7184097247602409680
+        m_Text2:
+          m_Property:
+            rid: 7184097247602409681
+    - rid: 7184097247602409680
+      type: {class: GetStringGlobalName, ns: GameCreator.Runtime.Variables, asm: GameCreator.Runtime.Core}
+      data:
+        m_Variable:
+          m_TypeID:
+            m_String: string
+          m_Variable: {fileID: 11400000, guid: 7a07624f555c2444190027c01c491483, type: 2}
+          m_Name:
+            m_String: Weapon
+            m_ID: 1855955664
+    - rid: 7184097247602409681
+      type: {class: GetStringString, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
+      data:
+        m_Value: Shooter
+    - rid: 7184097263964127951
+      type: {class: ConditionShooterHasEquipped, ns: GameCreator.Runtime.Shooter, asm: Assembly-CSharp-firstpass}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Sign: 1
+        m_Character:
+          m_Property:
+            rid: 7184097263964127952
+        m_Weapon:
+          m_Property:
+            rid: 7184097263964127953
+    - rid: 7184097263964127952
+      type: {class: GetGameObjectPlayer, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data: 
+    - rid: 7184097263964127953
+      type: {class: GetWeaponShooterCharacter, ns: GameCreator.Runtime.Shooter, asm: GameCreator.Runtime.Shooter}
+      data:
+        m_Character:
+          m_Property:
+            rid: 7184097265314430993
+    - rid: 7184097265314430993
+      type: {class: GetGameObjectPlayer, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data: 
+    - rid: 7184097265314431396
+      type: {class: InstructionLogicRunActions, ns: GameCreator.Runtime.VisualScripting, asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Actions:
+          m_Property:
+            rid: 7184097265314431397
+        m_WaitToFinish: 0
+    - rid: 7184097265314431397
+      type: {class: GetGameObjectGlobalName, ns: GameCreator.Runtime.Variables, asm: GameCreator.Runtime.Core}
+      data:
+        m_Variable:
+          m_TypeID:
+            m_String: game-object
+          m_Variable: {fileID: 11400000, guid: 7a07624f555c2444190027c01c491483, type: 2}
+          m_Name:
+            m_String: Unequip-Ranged
+            m_ID: -891175894
+    - rid: 7184097269976399934
+      type: {class: InstructionLogicRunActions, ns: GameCreator.Runtime.VisualScripting, asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Actions:
+          m_Property:
+            rid: 7184097269976399935
+        m_WaitToFinish: 0
+    - rid: 7184097269976399935
+      type: {class: GetGameObjectGlobalName, ns: GameCreator.Runtime.Variables, asm: GameCreator.Runtime.Core}
+      data:
+        m_Variable:
+          m_TypeID:
+            m_String: game-object
+          m_Variable: {fileID: 11400000, guid: 7a07624f555c2444190027c01c491483, type: 2}
+          m_Name:
+            m_String: Unequip-Melee
+            m_ID: 141881691
 --- !u!1 &4676219337953526415
 GameObject:
   m_ObjectHideFlags: 0
@@ -725,9 +1036,12 @@ PrefabInstance:
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 0afb9e96997ddfe499ab163cfbbb5b20, type: 3}
       insertIndex: 0
-      addedObject: {fileID: 7100852462509718642}
+      addedObject: {fileID: 4663841075311864558}
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 0afb9e96997ddfe499ab163cfbbb5b20, type: 3}
       insertIndex: 1
+      addedObject: {fileID: 7100852462509718642}
+    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 0afb9e96997ddfe499ab163cfbbb5b20, type: 3}
+      insertIndex: 2
       addedObject: {fileID: 6594358405960037224}
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 0afb9e96997ddfe499ab163cfbbb5b20, type: 3}
       insertIndex: -1
@@ -953,12 +1267,26 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Instructions:
     m_Instructions:
+    - rid: 1121869381343118277
     - rid: 9205400574257791426
   m_TriggerEvent:
     rid: 4927313411061318206
   references:
     version: 2
     RefIds:
+    - rid: 1121869381343118277
+      type: {class: InstructionLogicRunConditions, ns: GameCreator.Runtime.VisualScripting, asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Conditions:
+          m_Property:
+            rid: 1121869381343118278
+        m_WaitToFinish: 1
+    - rid: 1121869381343118278
+      type: {class: GetGameObjectConditions, ns: GameCreator.Runtime.VisualScripting, asm: GameCreator.Runtime.Core}
+      data:
+        m_Conditions: {fileID: 517995618408443704}
     - rid: 4927313411061318206
       type: {class: EventOnInputButton, ns: GameCreator.Runtime.VisualScripting, asm: GameCreator.Runtime.Core}
       data:

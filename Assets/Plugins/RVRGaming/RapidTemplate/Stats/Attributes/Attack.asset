@@ -15,7 +15,7 @@ MonoBehaviour:
   m_ID:
     m_String: Attack
   m_Data:
-    m_MinValue: 0
+    m_MinValue: 10
     m_MaxValue: {fileID: 11400000, guid: 1e71afd1515f0f84f96185ee4ac7571a, type: 2}
     m_StartPercent: 1
   m_Info:

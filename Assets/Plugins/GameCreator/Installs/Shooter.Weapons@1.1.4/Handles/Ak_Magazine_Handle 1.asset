@@ -39,8 +39,8 @@ MonoBehaviour:
     - rid: 1820692668416262338
       type: {class: GetPositionVector3, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
       data:
-        m_Position: {x: 0.12, y: 0.065, z: 0.03}
+        m_Position: {x: -0.12, y: -0.035, z: 0.1}
     - rid: 1820692668416262339
       type: {class: GetRotationConstantEulerVector, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
       data:
-        m_Angles: {x: 100, y: 90, z: 0}
+        m_Angles: {x: 184.235, y: -135.475, z: -84.871}
