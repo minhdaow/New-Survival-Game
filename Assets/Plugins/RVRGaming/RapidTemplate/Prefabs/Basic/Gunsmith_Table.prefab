@@ -78,6 +78,7 @@ GameObject:
   - component: {fileID: 5266711819701835895}
   - component: {fileID: 3491787929696420429}
   - component: {fileID: 6744225432284125416}
+  - component: {fileID: 4500092043529768237}
   m_Layer: 0
   m_Name: Gunsmith_Table
   m_TagString: Untagged
@@ -503,6 +504,73 @@ MonoBehaviour:
       type: {class: GetGameObjectConditions, ns: GameCreator.Runtime.VisualScripting, asm: GameCreator.Runtime.Core}
       data:
         m_Conditions: {fileID: 8540484150180507007}
+--- !u!114 &4500092043529768237
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6624876345319438332}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2912f38526d541c098dbcef2fe9fab2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Target:
+    m_Property:
+      rid: 4340016590559641637
+  m_Mode: 1
+  m_Radius:
+    m_Property:
+      rid: 4340016590559641638
+  onCheck:
+    m_Conditions:
+      m_Conditions: []
+  m_Spots:
+    m_Spots:
+    - rid: 1121869512711340716
+  references:
+    version: 2
+    RefIds:
+    - rid: 1121869512711340716
+      type: {class: SpotShowText, ns: GameCreator.Runtime.VisualScripting, asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Text:
+          m_Property:
+            rid: 1121869512711340717
+        m_Offset:
+          m_Property:
+            rid: 1121869513219113333
+        m_Prefab: {fileID: 4653243572743772486, guid: d416652900b2a26478bb240882568a84, type: 3}
+    - rid: 1121869512711340717
+      type: {class: GetStringString, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
+      data:
+        m_Value: E
+    - rid: 1121869513219113333
+      type: {class: GetDirectionLocalValue, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
+      data:
+        m_Transform:
+          m_Property:
+            rid: 1121869513219113336
+        m_Direction:
+          m_Property:
+            rid: 1121869513219113335
+    - rid: 1121869513219113335
+      type: {class: GetDirectionVector, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
+      data:
+        m_Direction: {x: 0, y: 3, z: 0}
+    - rid: 1121869513219113336
+      type: {class: GetGameObjectSelf, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
+      data: 
+    - rid: 4340016590559641637
+      type: {class: GetGameObjectPlayer, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+      data: 
+    - rid: 4340016590559641638
+      type: {class: GetDecimalDecimal, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
+      data:
+        m_Value: 10
 --- !u!1 &7067672114850304080
 GameObject:
   m_ObjectHideFlags: 0

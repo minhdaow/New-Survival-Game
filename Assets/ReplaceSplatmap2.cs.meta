@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 778b7afb5f2901a4a9bf354e98ad3009
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - splatmap: {fileID: -8033145526745710026, guid: 5fe21eaeab5883148b0571196996c0f2, type: 2}
+  - newsplat: {fileID: 2800000, guid: 02c8d784652b1374c81b6c91227000f9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

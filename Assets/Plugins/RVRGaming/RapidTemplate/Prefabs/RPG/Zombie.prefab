@@ -1765,7 +1765,7 @@ MonoBehaviour:
         m_FootOffset: 0
         m_FootMask:
           serializedVersion: 2
-          m_Bits: 4294967291
+          m_Bits: 51
         m_SmoothTime: 0.25
     - rid: 1121869138644435590
       type: {class: RigLean, ns: GameCreator.Runtime.Characters.IK, asm: GameCreator.Runtime.Core}
@@ -2035,229 +2035,229 @@ MonoBehaviour:
       rid: 7184097422792459095
   m_RuntimeData:
     m_Overrides:
-    - rid: 1121869138644435558
-    - rid: 1121869138644435559
-    - rid: 1121869138644435560
-    - rid: 1121869138644435561
-    - rid: 1121869138644435562
-    - rid: 1121869138644435563
-    - rid: 1121869138644435564
-    - rid: 1121869138644435565
-    - rid: 1121869138644435566
-    - rid: 1121869138644435567
-    - rid: 1121869138644435568
-    - rid: 1121869138644435569
-    - rid: 1121869138644435570
-    - rid: 1121869138644435571
-    - rid: 1121869138644435572
+    - rid: 1121869485210075731
+    - rid: 1121869485210075732
+    - rid: 1121869485210075733
+    - rid: 1121869485210075734
+    - rid: 1121869485210075735
+    - rid: 1121869485210075736
+    - rid: 1121869485210075737
+    - rid: 1121869485210075738
+    - rid: 1121869485210075739
+    - rid: 1121869485210075740
+    - rid: 1121869485210075741
+    - rid: 1121869485210075742
+    - rid: 1121869485210075743
+    - rid: 1121869485210075744
+    - rid: 1121869485210075745
   references:
     version: 2
     RefIds:
-    - rid: 1121869138644435558
+    - rid: 1121869485210075731
       type: {class: Parameter, ns: GameCreator.Runtime.Behavior, asm: GameCreator.Runtime.Behavior}
       data:
         m_Breakpoint: 0
         m_IsEnabled: 1
         m_Value:
-          rid: 1121869138644435573
+          rid: 1121869485210075746
         m_Name: Type
-    - rid: 1121869138644435559
+    - rid: 1121869485210075732
       type: {class: Parameter, ns: GameCreator.Runtime.Behavior, asm: GameCreator.Runtime.Behavior}
       data:
         m_Breakpoint: 0
         m_IsEnabled: 1
         m_Value:
-          rid: 1121869138644435574
+          rid: 1121869485210075747
         m_Name: IsDead
-    - rid: 1121869138644435560
+    - rid: 1121869485210075733
       type: {class: Parameter, ns: GameCreator.Runtime.Behavior, asm: GameCreator.Runtime.Behavior}
       data:
         m_Breakpoint: 0
         m_IsEnabled: 1
         m_Value:
-          rid: 1121869138644435575
+          rid: 1121869485210075748
         m_Name: IsMoving
-    - rid: 1121869138644435561
+    - rid: 1121869485210075734
       type: {class: Parameter, ns: GameCreator.Runtime.Behavior, asm: GameCreator.Runtime.Behavior}
       data:
         m_Breakpoint: 0
         m_IsEnabled: 1
         m_Value:
-          rid: 1121869138644435576
+          rid: 1121869485210075749
         m_Name: IsStunned
-    - rid: 1121869138644435562
+    - rid: 1121869485210075735
       type: {class: Parameter, ns: GameCreator.Runtime.Behavior, asm: GameCreator.Runtime.Behavior}
       data:
         m_Breakpoint: 0
         m_IsEnabled: 1
         m_Value:
-          rid: 1121869138644435577
+          rid: 1121869485210075750
         m_Name: IsAttacking
-    - rid: 1121869138644435563
+    - rid: 1121869485210075736
       type: {class: Parameter, ns: GameCreator.Runtime.Behavior, asm: GameCreator.Runtime.Behavior}
       data:
         m_Breakpoint: 0
         m_IsEnabled: 1
         m_Value:
-          rid: 1121869138644435578
+          rid: 1121869485210075751
         m_Name: IsDone
-    - rid: 1121869138644435564
+    - rid: 1121869485210075737
       type: {class: Parameter, ns: GameCreator.Runtime.Behavior, asm: GameCreator.Runtime.Behavior}
       data:
         m_Breakpoint: 0
         m_IsEnabled: 1
         m_Value:
-          rid: 1121869138644435579
+          rid: 1121869485210075752
         m_Name: Prep
-    - rid: 1121869138644435565
+    - rid: 1121869485210075738
       type: {class: Parameter, ns: GameCreator.Runtime.Behavior, asm: GameCreator.Runtime.Behavior}
       data:
         m_Breakpoint: 0
         m_IsEnabled: 1
         m_Value:
-          rid: 1121869138644435580
+          rid: 1121869485210075753
         m_Name: Hits
-    - rid: 1121869138644435566
+    - rid: 1121869485210075739
       type: {class: Parameter, ns: GameCreator.Runtime.Behavior, asm: GameCreator.Runtime.Behavior}
       data:
         m_Breakpoint: 0
         m_IsEnabled: 1
         m_Value:
-          rid: 1121869138644435581
+          rid: 1121869485210075754
         m_Name: Movement
-    - rid: 1121869138644435567
+    - rid: 1121869485210075740
       type: {class: Parameter, ns: GameCreator.Runtime.Behavior, asm: GameCreator.Runtime.Behavior}
       data:
         m_Breakpoint: 0
         m_IsEnabled: 1
         m_Value:
-          rid: 1121869138644435582
+          rid: 1121869485210075755
         m_Name: Draw_1
-    - rid: 1121869138644435568
+    - rid: 1121869485210075741
       type: {class: Parameter, ns: GameCreator.Runtime.Behavior, asm: GameCreator.Runtime.Behavior}
       data:
         m_Breakpoint: 0
         m_IsEnabled: 1
         m_Value:
-          rid: 1121869138644435583
+          rid: 1121869485210075756
         m_Name: Draw_2
-    - rid: 1121869138644435569
+    - rid: 1121869485210075742
       type: {class: Parameter, ns: GameCreator.Runtime.Behavior, asm: GameCreator.Runtime.Behavior}
       data:
         m_Breakpoint: 0
         m_IsEnabled: 1
         m_Value:
-          rid: 1121869138644435584
+          rid: 1121869485210075757
         m_Name: Draw_3
-    - rid: 1121869138644435570
+    - rid: 1121869485210075743
       type: {class: Parameter, ns: GameCreator.Runtime.Behavior, asm: GameCreator.Runtime.Behavior}
       data:
         m_Breakpoint: 0
         m_IsEnabled: 1
         m_Value:
-          rid: 1121869138644435585
+          rid: 1121869485210075758
         m_Name: Draw_4
-    - rid: 1121869138644435571
+    - rid: 1121869485210075744
       type: {class: Parameter, ns: GameCreator.Runtime.Behavior, asm: GameCreator.Runtime.Behavior}
       data:
         m_Breakpoint: 0
         m_IsEnabled: 1
         m_Value:
-          rid: 1121869138644435586
+          rid: 1121869485210075759
         m_Name: UI
-    - rid: 1121869138644435572
+    - rid: 1121869485210075745
       type: {class: Parameter, ns: GameCreator.Runtime.Behavior, asm: GameCreator.Runtime.Behavior}
       data:
         m_Breakpoint: 0
         m_IsEnabled: 1
         m_Value:
-          rid: 1121869138644435587
+          rid: 1121869485210075760
         m_Name: MarkerList
-    - rid: 1121869138644435573
+    - rid: 1121869485210075746
       type: {class: ValueString, ns: GameCreator.Runtime.Variables, asm: GameCreator.Runtime.Core}
       data:
         m_Breakpoint: 0
         m_IsEnabled: 1
         m_Value: 4
-    - rid: 1121869138644435574
+    - rid: 1121869485210075747
       type: {class: ValueBool, ns: GameCreator.Runtime.Variables, asm: GameCreator.Runtime.Core}
       data:
         m_Breakpoint: 0
         m_IsEnabled: 1
         m_Value: 0
-    - rid: 1121869138644435575
+    - rid: 1121869485210075748
       type: {class: ValueBool, ns: GameCreator.Runtime.Variables, asm: GameCreator.Runtime.Core}
       data:
         m_Breakpoint: 0
         m_IsEnabled: 1
         m_Value: 0
-    - rid: 1121869138644435576
+    - rid: 1121869485210075749
       type: {class: ValueBool, ns: GameCreator.Runtime.Variables, asm: GameCreator.Runtime.Core}
       data:
         m_Breakpoint: 0
         m_IsEnabled: 1
         m_Value: 0
-    - rid: 1121869138644435577
+    - rid: 1121869485210075750
       type: {class: ValueBool, ns: GameCreator.Runtime.Variables, asm: GameCreator.Runtime.Core}
       data:
         m_Breakpoint: 0
         m_IsEnabled: 1
         m_Value: 0
-    - rid: 1121869138644435578
+    - rid: 1121869485210075751
       type: {class: ValueBool, ns: GameCreator.Runtime.Variables, asm: GameCreator.Runtime.Core}
       data:
         m_Breakpoint: 0
         m_IsEnabled: 1
         m_Value: 0
-    - rid: 1121869138644435579
+    - rid: 1121869485210075752
       type: {class: ValueBool, ns: GameCreator.Runtime.Variables, asm: GameCreator.Runtime.Core}
       data:
         m_Breakpoint: 0
         m_IsEnabled: 1
         m_Value: 0
-    - rid: 1121869138644435580
+    - rid: 1121869485210075753
       type: {class: ValueNumber, ns: GameCreator.Runtime.Variables, asm: GameCreator.Runtime.Core}
       data:
         m_Breakpoint: 0
         m_IsEnabled: 1
         m_Value: 0
-    - rid: 1121869138644435581
+    - rid: 1121869485210075754
       type: {class: ValueGameObject, ns: GameCreator.Runtime.Variables, asm: GameCreator.Runtime.Core}
       data:
         m_Breakpoint: 0
         m_IsEnabled: 1
         m_Value: {fileID: 3231453433551329017}
-    - rid: 1121869138644435582
+    - rid: 1121869485210075755
       type: {class: ValueGameObject, ns: GameCreator.Runtime.Variables, asm: GameCreator.Runtime.Core}
       data:
         m_Breakpoint: 0
         m_IsEnabled: 1
         m_Value: {fileID: 5146222733481299311}
-    - rid: 1121869138644435583
+    - rid: 1121869485210075756
       type: {class: ValueGameObject, ns: GameCreator.Runtime.Variables, asm: GameCreator.Runtime.Core}
       data:
         m_Breakpoint: 0
         m_IsEnabled: 1
         m_Value: {fileID: 4534740894887430676}
-    - rid: 1121869138644435584
+    - rid: 1121869485210075757
       type: {class: ValueGameObject, ns: GameCreator.Runtime.Variables, asm: GameCreator.Runtime.Core}
       data:
         m_Breakpoint: 0
         m_IsEnabled: 1
         m_Value: {fileID: 6729033418733711979}
-    - rid: 1121869138644435585
+    - rid: 1121869485210075758
       type: {class: ValueGameObject, ns: GameCreator.Runtime.Variables, asm: GameCreator.Runtime.Core}
       data:
         m_Breakpoint: 0
         m_IsEnabled: 1
         m_Value: {fileID: 717184595792200922}
-    - rid: 1121869138644435586
+    - rid: 1121869485210075759
       type: {class: ValueGameObject, ns: GameCreator.Runtime.Variables, asm: GameCreator.Runtime.Core}
       data:
         m_Breakpoint: 0
         m_IsEnabled: 1
         m_Value: {fileID: 6412987921604488991}
-    - rid: 1121869138644435587
+    - rid: 1121869485210075760
       type: {class: ValueGameObject, ns: GameCreator.Runtime.Variables, asm: GameCreator.Runtime.Core}
       data:
         m_Breakpoint: 0
