@@ -126,7 +126,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2518283033010277714, guid: f85872de8fed64a068ff398e2fe752a6, type: 3}
       propertyPath: m_Name
-      value: UI_Craft_Forge
+      value: UI_Craft_Forge_List
       objectReference: {fileID: 0}
     - target: {fileID: 2518283033010277718, guid: f85872de8fed64a068ff398e2fe752a6, type: 3}
       propertyPath: m_Pivot.x
@@ -279,6 +279,14 @@ PrefabInstance:
     - target: {fileID: 4914600595950763353, guid: f85872de8fed64a068ff398e2fe752a6, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5059000802666438288, guid: f85872de8fed64a068ff398e2fe752a6, type: 3}
+      propertyPath: m_CraftingUI.m_CraftingItemUIPrefab
+      value: 
+      objectReference: {fileID: 6765160483820670241, guid: 56e86fe9d566c4e41b3940a376d2c582, type: 3}
+    - target: {fileID: 5715421866968132802, guid: f85872de8fed64a068ff398e2fe752a6, type: 3}
+      propertyPath: m_Value
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6162099224380763610, guid: f85872de8fed64a068ff398e2fe752a6, type: 3}
       propertyPath: m_AnchorMax.y
@@ -447,6 +455,10 @@ PrefabInstance:
     - target: {fileID: 9172641605487502652, guid: f85872de8fed64a068ff398e2fe752a6, type: 3}
       propertyPath: m_SizeDelta.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9172641605487502652, guid: f85872de8fed64a068ff398e2fe752a6, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.000061035156
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

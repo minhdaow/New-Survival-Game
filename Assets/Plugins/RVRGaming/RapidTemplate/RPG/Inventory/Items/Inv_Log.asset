@@ -46,7 +46,7 @@ MonoBehaviour:
     m_MaxStack: 99
   m_Price:
     m_Currency: {fileID: 11400000, guid: f161451dbe0f54fedbaaa28716337778, type: 2}
-    m_Value: 100
+    m_Value: 10
     m_CanBuyFromMerchant: 1
     m_CanSellToMerchant: 1
   m_Properties:
@@ -75,7 +75,7 @@ MonoBehaviour:
     m_List: []
     m_PrefabSocket: {fileID: 0}
   m_Equip:
-    m_IsEquippable: 1
+    m_IsEquippable: 0
     m_Prefab: {fileID: 0}
     m_ConditionsEquip:
       m_Conditions:

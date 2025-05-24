@@ -9,7 +9,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2370197850807760360}
-  - component: {fileID: 6053262708915477580}
   - component: {fileID: 4356325221866836454}
   - component: {fileID: 520705851419325281}
   - component: {fileID: 1192272960732107686}
@@ -40,27 +39,6 @@ Transform:
   - {fileID: 3342681067515540767}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!65 &6053262708915477580
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2492961141292633710}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 1
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 4, y: 2.5, z: 4}
-  m_Center: {x: 0, y: 1.25, z: 0}
 --- !u!114 &4356325221866836454
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -347,7 +325,7 @@ MonoBehaviour:
     m_Instructions:
     - rid: 1121869271434527508
   m_TriggerEvent:
-    rid: 1121869272133665168
+    rid: 1121869581307085262
   references:
     version: 2
     RefIds:
@@ -356,16 +334,14 @@ MonoBehaviour:
       data:
         m_Breakpoint: 0
         m_IsEnabled: 1
-    - rid: 1121869272133665168
-      type: {class: EventTriggerExit, ns: GameCreator.Runtime.VisualScripting, asm: GameCreator.Runtime.Core}
+    - rid: 1121869581307085262
+      type: {class: EventOnHotspotDeactivate, ns: GameCreator.Runtime.VisualScripting, asm: GameCreator.Runtime.Core}
       data:
-        m_Collider:
-          m_Option: 0
-          m_GameObject:
-            m_Property:
-              rid: 1121869272133665169
-    - rid: 1121869272133665169
-      type: {class: GetGameObjectPlayer, ns: GameCreator.Runtime.Characters, asm: GameCreator.Runtime.Core}
+        m_Hotspot:
+          m_Property:
+            rid: 1121869581307085263
+    - rid: 1121869581307085263
+      type: {class: GetGameObjectSelf, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
       data: 
 --- !u!114 &1775618872625458179
 MonoBehaviour:
